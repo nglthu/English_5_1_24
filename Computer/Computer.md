@@ -43,7 +43,7 @@ To research by English, students should have English skills such as:
 
 Computer Architecture
 
-<img src="Computer/img/architecture.png">
+<img src="/Computer/img/architecture.png" width=90%>
    
 2.1 Reading & Understanding & Translation 
 
