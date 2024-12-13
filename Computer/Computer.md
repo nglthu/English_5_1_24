@@ -19,7 +19,12 @@ To research by English, students should have English skills such as:
    
    Look up the vocabulary and Explanation.
    
+   
 2. Lesson: The computer
+
+Computer Architecture
+
+<img src="Computer/img/architecture.png">
    
 2.1 Reading & Understanding & Translation 
 
