@@ -22,7 +22,7 @@ To research by English, students should have English skills such as:
 | Words            | Meaning | Category|
 | :---------------- | :------: | ----: |
 | Storage Unit/Memory        |     |  |
-| Random Access Memory (RAM)  |  False   |  |
+| Random Access Memory (RAM)  |     |  |
 | Read Only Memory (ROM)  |     |  |
 | Second Storage Unit  |     |  |
 | Central Processing Unit (CPU)          |    |  |
