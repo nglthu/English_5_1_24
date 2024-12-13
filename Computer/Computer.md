@@ -21,21 +21,20 @@ To research by English, students should have English skills such as:
    Example
 | Words            | Meaning | Category|
 | :---------------- | :------: | ----: |
-| Storage Unit/Memory        |     |  |
-| Random Access Memory (RAM)  |     |  |
-| Read Only Memory (ROM)  |     |  |
-| Second Storage Unit  |     |  |
-| Central Processing Unit (CPU)          |    |  |
-| Input Output I/O    |     |  |
-| Operating System (OS)  |     |  |
-| Peripherals  |    |  |
-| Registers  |     |  |
-
-| Arithmetic logic unit (ALU)  |     |  |
-| Control unit  |    |  |
-| Bootloader  |    |  |
-| Buses  |    |  |
-| Interrupts  |    |  |
+| Storage Unit/Memory |     |  |
+| Random Access Memory (RAM) |     |  |
+| Read Only Memory (ROM) |     |  |
+| Second Storage Unit |     |  |
+| Central Processing Unit (CPU) |    |  |
+| Input Output I/O |     |  |
+| Operating System (OS) |     |  |
+| Peripherals |    |  |
+| Registers |     |  |
+| Arithmetic logic unit (ALU) |     |  |
+| Control unit |    |  |
+| Bootloader |    |  |
+| Buses |    |  |
+| Interrupts |    |  |
 
 
    
