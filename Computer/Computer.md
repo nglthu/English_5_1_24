@@ -18,7 +18,26 @@ To research by English, students should have English skills such as:
 1. English Vocabulary for Computer Science
    
    Look up the vocabulary and Explanation.
-   
+   Example
+| Words            | Meaning | Category|
+| :---------------- | :------: | ----: |
+| Storage Unit/Memory        |     |  |
+| Random Access Memory (RAM)  |  False   |  |
+| Read Only Memory (ROM)  |     |  |
+| Second Storage Unit  |     |  |
+| Central Processing Unit (CPU)          |    |  |
+| Input Output I/O    |     |  |
+| Operating System (OS)  |     |  |
+| Peripherals  |    |  |
+| Registers  |     |  |
+
+| Arithmetic logic unit (ALU)  |     |  |
+| Control unit  |    |  |
+| Bootloader  |    |  |
+| Buses  |    |  |
+| Interrupts  |    |  |
+
+
    
 2. Lesson: The computer
 
