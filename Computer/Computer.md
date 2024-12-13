@@ -19,6 +19,7 @@ To research by English, students should have English skills such as:
    
    Look up the vocabulary and Explanation.
    Example
+
 | Words            | Meaning | Category|
 | :---------------- | :------: | ----: |
 | Storage Unit/Memory |     |  |
@@ -42,7 +43,7 @@ To research by English, students should have English skills such as:
 
 Computer Architecture
 
-<img src="Computer/img/architecture.png">
+![Computer Architecture](/workspaces/English_5_1_24/Computer/img/architecture.png)
    
 2.1 Reading & Understanding & Translation 
 
