@@ -1,3 +1,5 @@
+# English for Computer Science (CSE803001-5-1-24(N03)) <img src='img/nglthu.png' align='right'> 
+
 
 # Lesson: Computer
 
@@ -61,3 +63,7 @@ Computer Architecture
 3.1 Buying your first computer
 
 3.2 Printer
+
+# Hanoi, December 2024 <img src='img/logo.png' align='right'> 
+
+
