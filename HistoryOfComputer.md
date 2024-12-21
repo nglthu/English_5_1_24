@@ -62,7 +62,7 @@ Purpose:
 | Vacuum Tube |    |  |
 | Transistor  |    |  |
 | Conduction/Conductor  |    |  |
-
+| Superconductor  |    |  |
 # Practice
 ## Conversation
 
