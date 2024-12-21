@@ -62,7 +62,25 @@ Computer Architecture
    
 3.1 Buying your first computer
 
+   Convesation: Buy a Computer at Vietel Computer Shop
+
+| Name            | Role | Conversation|
+| :---------------- | :------: | ----: |
+| Duyen | Computer Buyer /Customer    |  |
+| Van |  Computer Buyer /Customer   |  |
+| Lan |     | Sale person |
+
+
+
 3.2 Printer
+
+ Convesation: Buy a Printer at FPT Computer Shop
+
+| Name            | Role | Conversation|
+| :---------------- | :------: | ----: |
+| Bao | Printer Buyer /Customer    |  |
+| Nhat |     | Sale person |
+
 
 # Hanoi, December 2024 <img src='img/logo.png' align='right'> 
 
