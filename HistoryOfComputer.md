@@ -61,6 +61,7 @@ Purpose:
 | Embedded Processors  |    |  |
 | Vacuum Tube |    |  |
 | Transistor  |    |  |
+| Conduction/Conductor  |    |  |
 
 # Practice
 ## Conversation
