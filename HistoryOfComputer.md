@@ -9,9 +9,13 @@ Materials for the Class of CSE803001-5-1-24(N03)
 
 Purpose:
 + Scanning
+  
 + Skimming
+  
 + Understanding
+  
   ++ Main idea
+  
   ++ True/False
   
 
