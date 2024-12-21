@@ -63,6 +63,7 @@ Purpose:
 | Transistor  |    |  |
 | Conduction/Conductor  |    |  |
 | Superconductor  |    |  |
+| Semiconductor  |    |  |
 # Practice
 ## Conversation
 
