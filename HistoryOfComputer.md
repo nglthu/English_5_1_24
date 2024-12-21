@@ -60,7 +60,7 @@ Purpose:
 | MicreComputers  |    |  |
 | Embedded Processors  |    |  |
 | Vacuum Tube |    |  |
-| Embedded Processors  |    |  |
+| Transistor  |    |  |
 
 # Practice
 ## Conversation
