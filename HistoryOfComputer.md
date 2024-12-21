@@ -59,6 +59,8 @@ Purpose:
 | MiniComputers  |    |  |
 | MicreComputers  |    |  |
 | Embedded Processors  |    |  |
+| Vacuum Tube |    |  |
+| Embedded Processors  |    |  |
 
 # Practice
 ## Conversation
