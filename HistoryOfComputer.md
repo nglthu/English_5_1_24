@@ -78,6 +78,17 @@ buying a computer
 
 Ending in English (Hậu tố trong tiếng Anh)
 
+| Ending/Meaning            | Ending/Meaning | Ending/Meaning|
+| :---------------- | :------: | ----: |
+| <img src='img/1_al.png'> | <img src='img/2_ism.png'>     |  <img src='img/3Endig_ist.png'> |
+| <img src='img/1_al.png'> | <img src='img/2_ism.png'>     |  <img src='img/3Endig_ist.png'> |
+| <img src='img/1_al.png'> | <img src='img/2_ism.png'>     |  <img src='img/3Endig_ist.png'> |
+| <img src='img/1_al.png'> | <img src='img/2_ism.png'>     |  <img src='img/3Endig_ist.png'> |
+| <img src='img/1_al.png'> | <img src='img/2_ism.png'>     |  <img src='img/3Endig_ist.png'> |
+| <img src='img/1_al.png'> | <img src='img/2_ism.png'>     |  <img src='img/3Endig_ist.png'> |
+| <img src='img/1_al.png'> | <img src='img/2_ism.png'>     |  <img src='img/3Endig_ist.png'> |
+| superconductors |    |  |
+
 
 
 # Hanoi, December 2024 <img src='img/logo.png' align='right'> 
