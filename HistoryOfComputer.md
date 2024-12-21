@@ -6,3 +6,7 @@ Materials for the Class of CSE803001-5-1-24(N03)
 # The History of Computer
 
 [History of Computer](Computer/HistoryofComputers.pdf)
+
+
+
+# Hanoi, December 2024 <img src='img/logo.png' align='right'> 
