@@ -26,6 +26,23 @@ Purpose:
 3.1 Jim is at a store
 buying a computer
 
+| Name            | Role | Conversation|
+| :---------------- | :------: | ----: |
+| Nhat | Computer Buyer /Customer    |  |
+| Lan |  Computer Buyer /Customer   |  |
+| Duyen |     | Sale person |
+
+
+
+3.2 Printer
+
+ Convesation: Buy a Printer at FPT Computer Shop
+
+| Name            | Role | Conversation|
+| :---------------- | :------: | ----: |
+| Bao | Printer Buyer /Customer    |  |
+| Van |     | Sale person |
+
 # Comprehensive / Advanced Exercises
 
 # Grammar Lesson
