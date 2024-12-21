@@ -1,6 +1,6 @@
-<img src='img/logo.png' align='left'>
+# English for Computer Science (CSE803001-5-1-24(N03)) <img src='img/nglthu.png' align='right'> 
 
-# English for Computer Science (CSE803001-5-1-24(N03))
+
 Materials for the Class of CSE803001-5-1-24(N03)
 
 # The Computer
