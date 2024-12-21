@@ -18,6 +18,35 @@ Purpose:
 
 
 # Vocabulary
+ 
+   Look up the vocabulary and Explanation.
+   Example
+
+| Words            | Meaning | Category|
+| :---------------- | :------: | ----: |
+| Rod |     |  |
+| Apparatus |     |  |
+| Punch cards |     |  |
+| circuitry |     |  |
+| magnetic drums |    |  |
+| batch operating systems |     |  |
+| integrated circuit (IC)  |     |  |
+| superconductors |    |  |
+| cruncher |     |  |
+| calculator |     |  |
+| Dynamic Access Memory |    |  |
+| Ethernet |    |  |
+| Spreadsheet program |    |  |
+| Laptop  |    |  |
+| wireless fidelity  |    |  |
+| Elastic Cloud  |    |  |
+| Analog Computers  |    |  |
+| Digital Computers  |    |  |
+| Mainframe Computers  |    |  |
+| SuperComputers  |    |  |
+| MiniComputers  |    |  |
+| MicreComputers  |    |  |
+| Embedded Processors  |    |  |
 
 # Practice
 ## Conversation
