@@ -75,7 +75,9 @@ it on, and nothing happens
 
 # Comprehensive / Advanced Exercises
 
-# Writing Lesson
+# Writing
+
+## Writing Lesson
 
 Reasearch the provided materials, write a short paper about the must characteristics of computer nowsaday.
 
