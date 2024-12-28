@@ -44,10 +44,11 @@ Purpose:
 
 | Words            | Meaning | Category|
 | :---------------- | :------: | ----: |
-| |     |  |
-|  |     |  |
-|  |     |  |
-| |     |  |
+| Speed|     | fast, slow, in miliseconds |
+| Flexibility|     | Versatility, mulitple parallel |
+| Storage Capability|     | Harddisk, CDs, Harddrive, Remembrance Power, Cloud, Data center |
+| Automation|     | Diligence |
+| Feelings|     | Human Behaviour,  User Perception|
 
 # Practice
 ## Conversation
