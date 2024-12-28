@@ -13,7 +13,7 @@ Reading Materials
 Added Video for Understanding
 
 
-[![Watch the video: Characterisctics of Computer](https://nglthu.github.io/English_5_1_24/img/computer.png)]((https://www.youtube.com/watch?v=P88gULw8xzE))
+![Watch the video: Characterisctics of Computer](https://nglthu.github.io/English_5_1_24/img/characteristics-of-computer.jpg)(https://www.youtube.com/watch?v=P88gULw8xzE)
 
 
 
