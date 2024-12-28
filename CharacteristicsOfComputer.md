@@ -10,6 +10,8 @@ Reading Materials
 
 [Human Behaviour](Characteristics/Characteristics/The_contribution_of_learner_characterist.pdf)
 
+[Human Behaviour](Characteristics/Characteristics/The_contribution_of_learner_characterist.pdf)
+
 Watch / Listening video /audio
 
 ## Watch the video: Characterisctics of Computer
