@@ -8,7 +8,7 @@ Reading Materials
 
 [Characteristics Of Computer](Characteristics/Reading_characteristics_computer.pdf)
 
-[Characteristics Computer](Characteristics/Reading_characteristics_computer.pdf)
+[Human Behaviour](Characteristics/Characteristics/The_contribution_of_learner_characterist.pdf)
 
 Watch / Listening video /audio
 
