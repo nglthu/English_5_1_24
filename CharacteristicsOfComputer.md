@@ -8,7 +8,8 @@ Reading Materials
 
 [Characteristics Of Computer](Characteristics/Reading_characteristics_computer.pdf)
 
-[Human Behaviour](Characteristics/Characteristics/The_contribution_of_learner_characterist.pdf)
+[Journal: 
+The contribution of learner characteristics in the development of computer-based adaptive learning environments](Characteristics/Characteristics/The_contribution_of_learner_characterist.pdf)
 
 [Journal: Cloud Computing Characteristics and Services: A Brief Review](Characteristics/Characteristics/70-IJCSE-05826.pdf)
 
