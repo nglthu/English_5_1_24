@@ -10,7 +10,7 @@ Reading Materials
 
 [Human Behaviour](Characteristics/Characteristics/The_contribution_of_learner_characterist.pdf)
 
-[Human Behaviour](Characteristics/Characteristics/70-IJCSE-05826.pdf)
+[Journal: Cloud Computing Characteristics and Services: A Brief Review](Characteristics/Characteristics/70-IJCSE-05826.pdf)
 
 Watch / Listening video /audio
 
