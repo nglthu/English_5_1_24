@@ -8,12 +8,20 @@ Reading Materials
 
 [Characteristics Of Computer]
 
-[History of Computer](Computer/HistoryofComputers.pdf)
+[Characteristics Computer](Computer/HistoryofComputers.pdf)
 
-Added Video for Understanding
+Watch / Listening video /audio
 
+## Watch the video: Characterisctics of Computer
 
 [![Watch the video: Characterisctics of Computer](https://nglthu.github.io/English_5_1_24/img/characteristics-of-computer.jpg)](https://www.youtube.com/watch?v=P88gULw8xzE)
+
+## Watch the video: Characterisctics of Computer : Speed
+
+[![Watch the video: Characterisctics of Computer : Speed](https://nglthu.github.io/English_5_1_24/img/characteristics-of-computer.jpg)](https://www.youtube.com/watch?v=puuW-8X0NTE)
+
+
+
 
 
 
