@@ -4,7 +4,8 @@
 Materials for the Class of CSE803001-5-1-24(N03)
 
 # Characterisctics Of Computer
-Reading Materials
+
+## Reading Materials
 
 [Internet Reading Material: Characteristics Of Computer](Characteristics/Reading_characteristics_computer.pdf)
 
@@ -12,6 +13,10 @@ Reading Materials
 The contribution of learner characteristics in the development of computer-based adaptive learning environments](Characteristics/Characteristics/The_contribution_of_learner_characterist.pdf)
 
 [Journal: Cloud Computing Characteristics and Services: A Brief Review](Characteristics/Characteristics/70-IJCSE-05826.pdf)
+
+## Writting Materials
+
+[Genearl Tips for Writting Academic papers](Techniques/general-tips-for-writing-academic-papers.pdf)
 
 Watch / Listening video /audio
 
