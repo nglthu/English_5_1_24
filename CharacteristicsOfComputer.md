@@ -14,10 +14,6 @@ The contribution of learner characteristics in the development of computer-based
 
 [Journal: Cloud Computing Characteristics and Services: A Brief Review](Characteristics/Characteristics/70-IJCSE-05826.pdf)
 
-## Writting Materials
-
-[Genearl Tips for Writting Academic papers](Techniques/general-tips-for-writing-academic-papers.pdf)
-
 
 
 ## Watch the video: Characterisctics of Computer
@@ -93,6 +89,12 @@ it on, and nothing happens
 # Comprehensive / Advanced Exercises
 
 # Writing
+
+## Writting Tips
+
+[Genearl Tips for Writting Academic papers](Techniques/general-tips-for-writing-academic-papers.pdf)
+
+
 
 ## Writing Lesson
 
