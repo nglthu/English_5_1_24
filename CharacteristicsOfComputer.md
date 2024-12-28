@@ -111,6 +111,12 @@ Reasearch the provided materials, write a <b>short paper <b> about the must char
 + [Your] Review of Characteristics of Computer
 + Conclusion
 
+## Writing Template
+
+[IEEE Template Selection](https://template-selector.ieee.org/secure/templateSelector/publicationType)
+
+<img src = '/img/IEEEtemplate.png'>
+
 # Quiz
 
 ## Quiz Completion
