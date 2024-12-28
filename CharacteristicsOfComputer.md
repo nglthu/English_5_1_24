@@ -25,17 +25,9 @@ Watch / Listening video /audio
 
 [![Watch the video: Characterisctics of Computer : Speed](https://nglthu.github.io/English_5_1_24/img/characteristicsOfCom.png)](https://www.youtube.com/watch?v=puuW-8X0NTE)
 
-
-
-
-
-
-
+# What is on your mind ?
 
 Purpose:
-+ Scanning
-  
-+ Skimming
   
 + Understanding
   
@@ -45,10 +37,9 @@ Purpose:
   
 
 
-
 # Vocabulary
  
-   Look up the vocabulary and Explanation.
+  This time, please Look up the vocabulary and Explanation.
    Example
 
 | Words            | Meaning | Category|
@@ -65,7 +56,6 @@ Purpose:
 + Practice the conversation
 
 
-
 3.1 Jim gets the new
 computer home, turns
 it on, and nothing happens
@@ -73,9 +63,9 @@ it on, and nothing happens
 
 | Name            | Role | Conversation|
 | :---------------- | :------: | ----: |
-| Lan| Computer Buyer /Customer    |  |
-| Nhat |  Technician /Customer  Services Dept. |  |
-| Duyen |     | Sale person |
+| Lan| Computer Buyer /Customer    |  Computer is not working as new|
+| Nhat |  Technician /Customer  Services Dept. | Technique support/fix/ |
+| Duyen |  Sale person    | customer services / discount / voucher |
 
 | Name            | Role | Conversation|
 | :---------------- | :------: | ----: |
@@ -99,17 +89,17 @@ include
 
 ### An Introduction 
 
-which provides a general idea about the topic and introduces the topic in an interesting way. 
+General idea about the topic and introduces the topic in an interesting way. 
 
-Also, it includes the thesis statement that expresses the aim or the focus of your paper.
+Thesis statement that expresses the aim or the focus of your paper / journal /academic paper.
 
 ### The body paragraphs 
 
-that will develop your statement.
+Develop your statement.
 
 ### A Conclusion 
 
-that could be a restatement, a summary, or a final idea that closes the discussions.
+Restatement, a summary, or a final idea that closes the discussions.
 
 
 
