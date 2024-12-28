@@ -82,10 +82,9 @@ it on, and nothing happens
 
 ## Writting Tips
 
-[Genearl Tips for Writting Academic papers](Techniques/general-tips-for-writing-academic-papers.pdf)
+[General Tips for Writting Academic papers](Techniques/general-tips-for-writing-academic-papers.pdf)
 
-Make sure your paper has the three essential parts of the essay. Your paper should
-include
+## The three essential parts of the essay:
 
 ### An Introduction 
 
