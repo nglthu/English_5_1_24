@@ -27,7 +27,7 @@ Watch / Listening video /audio
 
 ## Watch the video: Characterisctics of Computer : Speed
 
-[![Watch the video: Characterisctics of Computer : Speed](https://nglthu.github.io/English_5_1_24/img/characteristics-of-computer.jpg)](https://www.youtube.com/watch?v=puuW-8X0NTE)
+[![Watch the video: Characterisctics of Computer : Speed](https://nglthu.github.io/English_5_1_24/img/characteristicsOfCom.png)](https://www.youtube.com/watch?v=puuW-8X0NTE)
 
 
 
