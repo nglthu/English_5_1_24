@@ -94,11 +94,28 @@ it on, and nothing happens
 
 [Genearl Tips for Writting Academic papers](Techniques/general-tips-for-writing-academic-papers.pdf)
 
+Make sure your paper has the three essential parts of the essay. Your paper should
+include
+
+### An Introduction 
+
+which provides a general idea about the topic and introduces the topic in an interesting way. 
+
+Also, it includes the thesis statement that expresses the aim or the focus of your paper.
+
+### The body paragraphs 
+
+that will develop your statement.
+
+### A Conclusion 
+
+that could be a restatement, a summary, or a final idea that closes the discussions.
+
 
 
 ## Writing Lesson
 
-Reasearch the provided materials, write a short paper about the must characteristics of computer nowsaday.
+Reasearch the provided materials, write a <b>short paper <b> about the must characteristics of computer nowsaday.
 
 + Abstract
 + Introduction
