@@ -115,7 +115,7 @@ Reasearch the provided materials, write a <b>short paper <b> about the must char
 
 [IEEE Template Selection](https://template-selector.ieee.org/secure/templateSelector/publicationType)
 
-<img src = '/img/IEEEtemplate.png'>
+<img src = 'https://nglthu.github.io/English_5_1_24/img/IEEEtemplate.png'>
 
 # Quiz
 
