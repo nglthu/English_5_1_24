@@ -18,9 +18,10 @@ The contribution of learner characteristics in the development of computer-based
 
 [Genearl Tips for Writting Academic papers](Techniques/general-tips-for-writing-academic-papers.pdf)
 
-Watch / Listening video /audio
+
 
 ## Watch the video: Characterisctics of Computer
+Watch / Listening video /audio
 
 [![Watch the video: Characterisctics of Computer](https://nglthu.github.io/English_5_1_24/img/characteristics-of-computer.jpg)](https://www.youtube.com/watch?v=P88gULw8xzE)
 
