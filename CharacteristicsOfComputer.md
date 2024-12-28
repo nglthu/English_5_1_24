@@ -6,9 +6,9 @@ Materials for the Class of CSE803001-5-1-24(N03)
 # Characterisctics Of Computer
 Reading Materials
 
-[Characteristics Of Computer]
+[Characteristics Of Computer](Characteristics/Reading_characteristics_computer.pdf)
 
-[Characteristics Computer](Computer/HistoryofComputers.pdf)
+[Characteristics Computer](Characteristics/Reading_characteristics_computer.pdf)
 
 Watch / Listening video /audio
 
