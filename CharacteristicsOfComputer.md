@@ -114,10 +114,9 @@ Reasearch the provided materials, write a <b>short paper <b> about the must char
 
 # Quiz
 
-## Computer Fundamentals
-
+## Quiz Completion
 [Computer Fundamentals](https://codescracker.com/exam/showtest.php?subid=14)
 
-[Computer Hardware]()
+[Computer Hardware](https://codescracker.com/exam/showtest.php?subid=20)
 
 # Hanoi, December 2024 <img src='img/logo.png' align='right'> 
