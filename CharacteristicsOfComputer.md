@@ -112,5 +112,12 @@ Reasearch the provided materials, write a <b>short paper <b> about the must char
 + [Your] Review of Characteristics of Computer
 + Conclusion
 
+# Quiz
+
+## Computer Fundamentals
+
+[Computer Fundamentals](https://codescracker.com/exam/showtest.php?subid=14)
+
+[Computer Hardware]()
 
 # Hanoi, December 2024 <img src='img/logo.png' align='right'> 
