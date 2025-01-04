@@ -59,12 +59,12 @@ Please write a short paper to overview of these above points in the 2024's Bigge
 
 | Words            | Meaning | Category|
 | :---------------- | :------: | ----: |
-| Rod |     |  |
-| Apparatus |     |  |
-| Punch cards |     |  |
-| circuitry |     |  |
-| magnetic drums |    |  |
-| batch operating systems |     |  |
+| hardware |     |  |
+| software |     |  |
+| middleware |     |  |
+| neural scaling loss |     |  |
+| phenomena |    |  |
+| stochastic |     |  |
 | integrated circuit (IC)  |     |  |
 | superconductors |    |  |
 | cruncher |     |  |
