@@ -70,6 +70,9 @@ Please write a short paper to overview of these above points in the 2024's Bigge
 | generalisation |     |  |
 | training loss |     |  |
 | random graph |     |  |
+| bipartite graph |     |  |
+|  |     |  |
+| |     |  |
 
 # Speaking materials: Hardware and Software [Practice]
 ## Conversation
