@@ -75,7 +75,7 @@ Please write a short paper to overview of these above points in the 2024's Bigge
 | generalisation |     |  |
 | training loss |     |  |
 | random graph |     |  |
-| bipartite graph |     |  |
+| bipartite [bīˈpärˌtīt] graph |     |  |
 | actual language model |     |  |
 | corpus |     |  |
 | self-serving biased |     |  |
