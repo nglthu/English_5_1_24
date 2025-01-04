@@ -13,7 +13,7 @@ Added Video for Understanding
 
 [![Watch the video: Software and Hardware](https://nglthu.github.io/English_5_1_24/img/computer.png)](https://www.youtube.com/watch?v=vG_qmtdBPTU)
 
-
+[![Watch the video: Software and Hardware](https://nglthu.github.io/English_5_1_24/img/computer.png)](https://www.youtube.com/watch?v=fTMMsreAqX0)
 
 Purpose:
 + Scanning
