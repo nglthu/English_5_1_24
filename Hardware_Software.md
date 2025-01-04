@@ -50,6 +50,10 @@ This strategy contains the following steps:
    
 5. "R" means re-examining and rereading what had been written to make sure of its quality.
 
+
+
+   ![POWER](https://nglthu.github.io/English_5_1_24/img/appendix.png)
+
 ## Short_paper
 
 <h1>Writing Materials: Hardware & Software</h1>
