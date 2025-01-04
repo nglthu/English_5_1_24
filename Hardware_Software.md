@@ -6,12 +6,12 @@ Materials for the Class of CSE803001-5-1-24(N03)
 # Hardware & Software
 Reading Materials
 
-[History of Computer](Computer/HistoryofComputers.pdf)
+[Software and Hardware](Computer/HistoryofComputers.pdf)
 
 Added Video for Understanding
 
 
-[![Watch the video: History of Computer](https://nglthu.github.io/English_5_1_24/img/computer.png)](https://www.youtube.com/watch?v=gjVX47dLlN8)
+[![Watch the video: Software and Hardware](https://nglthu.github.io/English_5_1_24/img/computer.png)](https://www.youtube.com/watch?v=vG_qmtdBPTU)
 
 
 
