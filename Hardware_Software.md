@@ -73,7 +73,9 @@ Please write a short paper to overview of these above points in the 2024's Bigge
 | bipartite graph |     |  |
 | actual language model |     |  |
 | corpus |     |  |
-|  |     |  |
+| self-serving biased |     |  |
+| metaphor|     |  |
+| |     |  |
 | |     |  |
 # Speaking materials: Hardware and Software [Practice]
 ## Conversation
