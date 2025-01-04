@@ -70,7 +70,7 @@ Please write a short paper to overview of these above points in the 2024's Bigge
 | neural scaling laws |     |  |
 | phenomena |    |  |
 | stochastic [stəˈkastik]|     |  |
-| behaviour)  |     |  |
+| behaviour  |     |  |
 | emergence |    |  |
 | generalisation |     |  |
 | training loss |     |  |
