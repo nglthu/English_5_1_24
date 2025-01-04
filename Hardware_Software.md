@@ -10,8 +10,11 @@ Reading Materials
 
 Added Video for Understanding
 
+## Hardware & Software
 
 [![Watch the video: Software and Hardware](https://nglthu.github.io/English_5_1_24/img/computer.png)](https://www.youtube.com/watch?v=vG_qmtdBPTU)
+
+## 2024's Biggest Breakthroughs in Computer Science
 
 [![Watch the video: 2024's Biggest Breakthroughs in Computer Science](https://nglthu.github.io/English_5_1_24/img/behaviour.png)](https://www.youtube.com/watch?v=fTMMsreAqX0)
 
