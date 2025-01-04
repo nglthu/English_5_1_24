@@ -68,6 +68,7 @@ Please write a short paper to overview of these above points in the 2024's Bigge
 | behaviour)  |     |  |
 | emergence |    |  |
 | generalisation |     |  |
+| training loss |     |  |
 
 # Speaking materials: Hardware and Software [Practice]
 ## Conversation
