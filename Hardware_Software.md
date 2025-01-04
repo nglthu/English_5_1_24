@@ -3,15 +3,18 @@
 
 Materials for the Class of CSE803001-5-1-24(N03)
 
-# Hardware & Software
-Reading Materials
+# Reading Materials: Hardware & Software
+
 
 [Software and Hardware](Computer/HistoryofComputers.pdf)
-[Recent Advances in Natural Language Processing via Large Pre-Trained Language Models: A Survey]()
+[Recent Advances in Natural Language Processing via Large Pre-Trained Language Models: A Survey](Characteristics/NLP1.pdf)
 
-Added Video for Understanding
 
-## Hardware & Software
+
+# Listening Materials: Hardware & Software
+
+
+## Hardware and Software in Computer Science
 
 [![Watch the video: Software and Hardware](https://nglthu.github.io/English_5_1_24/img/computer.png)](https://www.youtube.com/watch?v=vG_qmtdBPTU)
 
@@ -30,7 +33,7 @@ Purpose:
   
   ++ True/False
   
-# Writting
+# Writting Materials: Hardware & Software
 
 ```
 The unpredictable phenomena of emergent abilities of large language model.
@@ -62,26 +65,8 @@ Please write a short paper to overview of these above points in the 2024's Bigge
 | integrated circuit (IC)  |     |  |
 | superconductors |    |  |
 | cruncher |     |  |
-| calculator |     |  |
-| Dynamic Access Memory |    |  |
-| Ethernet |    |  |
-| Spreadsheet program |    |  |
-| Laptop  |    |  |
-| wireless fidelity  |    |  |
-| Elastic Cloud  |    |  |
-| Analog Computers  |    |  |
-| Digital Computers  |    |  |
-| Mainframe Computers  |    |  |
-| SuperComputers  |    |  |
-| MiniComputers  |    |  |
-| MicreComputers  |    |  |
-| Embedded Processors  |    |  |
-| Vacuum Tube |    |  |
-| Transistor  |    |  |
-| Conduction/Conductor  |    |  |
-| Superconductor  |    |  |
-| Semiconductor  |    |  |
-# Practice
+
+# Speaking materials: Hardware and Software [Practice]
 ## Conversation
 
 
