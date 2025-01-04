@@ -46,7 +46,7 @@ This strategy contains the following steps:
    
 3. "W" stands for writing and this stage is the stage of actual writing to what had been arranged before.
    
-4. "E" means evaluating what had been written according to a writing rubric see appendix (A).
+4. "E" means evaluating what had been written according to a writing rubric see appendix (A) and your supporting/evidence/experiment results.
    
 5. "R" means re-examining and rereading what had been written to make sure of its quality.
 
