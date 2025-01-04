@@ -36,7 +36,9 @@ Purpose:
   
 # Writting 
 
-## Writing Materials: Hardware & Software
+## Short_paper
+
+<h1>Writing Materials: Hardware & Software</h1>
 
 ```
 The unpredictable phenomena of emergent abilities of large language model.
