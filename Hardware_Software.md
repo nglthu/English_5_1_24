@@ -67,7 +67,7 @@ Please write a short paper to overview of these above points in the 2024's Bigge
 | stochastic |     |  |
 | behaviour)  |     |  |
 | emergence |    |  |
-| cruncher |     |  |
+| generalisation |     |  |
 
 # Speaking materials: Hardware and Software [Practice]
 ## Conversation
