@@ -30,7 +30,9 @@ Purpose:
 
 ```
 The unpredictable phenomena of emergent abilities of large language model.
-Model can generalize to random unseen compositions of some level of unpredictable abilities or skills. Other phenomena that we probably are not aware of, and we need some understanding of that. Language models can move beyond being stochastic parrots. For example, Chat bot had some level of understanding but do these abilities reflect actual understanding? Otherwise, model simply repeat its training data like so called stochastic parrots. 
+Model can generalize to random unseen compositions of some level of unpredictable abilities or skills.
+Other phenomena that we probably are not aware of, and we need some understanding of that. Language models can move beyond being stochastic parrots.
+For example, Chat bot had some level of understanding but do these abilities reflect actual understanding? Otherwise, model simply repeat its training data like so called stochastic parrots. 
 
 
 Please write a short paper to overview of these above points in the 2024's Biggest Breakthroughs in Computer Science.
