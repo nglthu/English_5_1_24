@@ -71,7 +71,7 @@ Please write a short paper to overview of these above points in the 2024's Bigge
 | training loss |     |  |
 | random graph |     |  |
 | bipartite graph |     |  |
-|  |     |  |
+| actual language model |     |  |
 | |     |  |
 
 # Speaking materials: Hardware and Software [Practice]
