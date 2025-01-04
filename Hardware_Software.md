@@ -51,6 +51,8 @@ Please write a short paper to overview of these above points in the 2024's Bigge
 ```
 
 
+[![Skill Mix](https://nglthu.github.io/English_5_1_24/img/skillmix.png)](https://www.youtube.com/watch?v=fTMMsreAqX0)
+
 
 # Vocabulary
  
