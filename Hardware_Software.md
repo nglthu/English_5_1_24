@@ -33,12 +33,15 @@ Purpose:
   
   ++ True/False
   
-# Writting Materials: Hardware & Software
+# Writting 
+
+## Writing Materials: Hardware & Software
 
 ```
 The unpredictable phenomena of emergent abilities of large language model.
 Model can generalize to random unseen compositions of some level of unpredictable abilities or skills.
-Other phenomena that we probably are not aware of, and we need some understanding of that. Language models can move beyond being stochastic parrots.
+Other phenomena that we probably are not aware of, and we need some understanding of that.
+Language models can move beyond being stochastic parrots.
 For example, Chat bot had some level of understanding but do these abilities reflect actual understanding?
 Otherwise, model simply repeat its training data like so called stochastic parrots. 
 
