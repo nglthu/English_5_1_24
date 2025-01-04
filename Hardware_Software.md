@@ -62,7 +62,7 @@ Please write a short paper to overview of these above points in the 2024's Bigge
 | hardware |     |  |
 | software |     |  |
 | middleware |     |  |
-| neural scaling loss |     |  |
+| neural scaling laws |     |  |
 | phenomena |    |  |
 | stochastic |     |  |
 | integrated circuit (IC)  |     |  |
