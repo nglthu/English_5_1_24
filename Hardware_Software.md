@@ -35,6 +35,20 @@ Purpose:
   
   
 # Writting 
+## Technique
+
+This new strategic technique is called the Power strategy. 
+This strategy contains the following steps:
+
+1. "P" which stands for picking ideas. In this stage, students are asked to think of what they are writing and this stage is considered to be pre-writing stage then students write freely and then choose the most important ideas to write about.
+   
+2. "O" refers to organizing ideas. In this stage, students put their ideas into well-organized order according to the sequence and the importance of the ideas.
+   
+3. "W" stands for writing and this stage is the stage of actual writing to what had been arranged before.
+   
+4. "E" means evaluating what had been written according to a writing rubric see appendix (A).
+   
+5. "R" means re-examining and rereading what had been written to make sure of its quality.
 
 ## Short_paper
 
