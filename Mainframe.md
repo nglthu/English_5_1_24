@@ -51,7 +51,12 @@ IBM zSeries—the z16
 <b>ON-CHIP</b> integrated accelerators to predict and automate with AI at unprecedented speed and scale
 (and with extremely low latency
 
+```
+Announcing IBM z16:
+Real-time AI for Transaction Processing at Scale and Industry's First Quantum-Safe System
 
+```
+Citation: [Real Time AI for Transaction Processing at Scale and Industry Firt Quantum Safe System](https://newsroom.ibm.com/2022-04-05-Announcing-IBM-z16-Real-time-AI-for-Transaction-Processing-at-Scale-and-Industrys-First-Quantum-Safe-System)
 
 Soucrced: IBM
 IBM zSeries—the z16
