@@ -38,6 +38,9 @@ Sourced: Harvard University
 
 The first modern mainframe, the IBM System/360, hit the market in 1964. Within two years, the System/360 dominated the mainframe computer market as the industry standard.
 
+![IBM 370](https://nglthu.github.io/English_5_1_24/img/IBM370.jpeg)
+
+
 Sourced: IBM
 
 
