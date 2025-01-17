@@ -195,22 +195,22 @@ Reference:  Hutton, D. (2024). IBM Z/LinuxONE System Processor Optimization Prim
 ## Conversation
 
 
-3.1 Conversation: the computer is working - now to learn Windows 10
+3.1 Conversation: the breakthrough of current trends in Mainframe's industry
 
 | Name            | Role | Conversation|
 | :---------------- | :------: | ----: |
-| Nhat | Computer User   |  |
-| Lan |  Computer User   |  |
+| Nhat | Listener   |  |
+| Lan |  Speaker about current mainframe   |  |
 | Duyen |     | Friend to share Conversation |
 
 
 
-3.2 Convesation: the computer is working - now to learn Windows 10
+3.2 Convesation: Now mentioning about IBM Z/LinuxOne System, and its advance.
 
 | Name            | Role | Conversation|
 | :---------------- | :------: | ----: |
-| Bao | Computer Buyer /Customer    |  |
-| Van |     | Friend to share conversation |
+| Bao | Listener    |  |
+| Van |     | Speaker about IBM Z/LinuxONE System |
 
 # Comprehensive / Advanced Exercises
 
