@@ -149,7 +149,7 @@ Please write a short paper to overview of these above points in the 2024's Bigge
 | quantum-safe system |    |  |
 | stochastic [stəˈkastik]|     |  |
 | behaviour  |     |  |
-| emergence |    |  |
+| Millicode |    |  |
 | generalisation |     |  |
 | training loss |     |  |
 | random graph |     |  |
