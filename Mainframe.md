@@ -167,7 +167,7 @@ Please write a short paper to overview of these above points in the 2024's Bigge
 | self-modifying code |     |  |
 | random graph |     |  |
 | bipartite [bīˈpärˌtīt] graph |     |  |
-| actual language model |     |  |
+| High-Level understanding of the microprocessor core |     |  |
 | corpus |     |  |
 | self-serving biased |     |  |
 | metaphor|     |  |
