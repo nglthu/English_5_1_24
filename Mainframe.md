@@ -24,6 +24,10 @@ Today’s mainframes process and store massive amounts of data and are called en
 
 ## What does it look like ?
 
+![Mainframe in Viettel Data center](https://nglthu.github.io/English_5_1_24/img/vietteldatacenter_mainframe.jpeg)
+
+Sourced: Mainframe in Viettel Datacenter by Viettel
+
 
 # Reading Materials: MAINFRAMES
 
