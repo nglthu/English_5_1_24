@@ -2,6 +2,12 @@
 
 
 Materials for the Class of CSE803001-5-1-24(N03)
+# Lecturing
+
+## What is mainframe
+
+Mainframes are data servers that are designed to process up to 1 trillion web transactions daily with the highest levels of security and reliability
+
 
 # Reading Materials: MAINFRAMES
 
@@ -14,25 +20,13 @@ Materials for the Class of CSE803001-5-1-24(N03)
 # Listening Materials: MainFrame
 
 
-## Hardware and Software in Computer Science
+## Mainframe brief Introduction
 
 [![Watch the video: Mainframe](https://nglthu.github.io/English_5_1_24/img/computer.png)](https://www.youtube.com/watch?v=ximv-PwAKnc)
 
 
-## 2024's Biggest Breakthroughs in Computer Science
 
-[![Watch the video: 2024's Biggest Breakthroughs in Computer Science](https://nglthu.github.io/English_5_1_24/img/behaviour.png)](https://www.youtube.com/watch?v=fTMMsreAqX0)
 
-Purpose:
-+ Scanning
-  
-+ Skimming
-  
-+ Understanding
-  
-  ++ Main idea
-  
-  ++ True/False
   
   
 # Writting 
