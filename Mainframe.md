@@ -28,6 +28,11 @@ Today’s mainframes process and store massive amounts of data and are called en
 
 Sourced: Mainframe in Viettel Datacenter by Viettel
 
+## The history of Mainframe
+
+Designed in 1937, the Harvard Mark I, or IBM Automatic Sequence Controlled Calculator
+
+
 
 # Reading Materials: MAINFRAMES
 
