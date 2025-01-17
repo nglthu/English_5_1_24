@@ -168,7 +168,7 @@ Please write a short paper to overview of these above points in the 2024's Bigge
 | random graph |     |  |
 | bipartite [bīˈpärˌtīt] graph |     |  |
 | High-Level understanding of the microprocessor core |     |  |
-| corpus |     |  |
+| Branch Prediction Unit |     |  |
 | self-serving biased |     |  |
 | metaphor|     |  |
 | |     |  |
