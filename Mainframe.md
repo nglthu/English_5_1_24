@@ -156,6 +156,8 @@ Please write a short paper to overview of these above points in the 2024's Bigge
 | Words            | Meaning | Category|
 | :---------------- | :------: | ----: |
 | Mainframes |     |  |
+| Core-level|     |  |
+| Chip-level|     |  |
 | Real-time |     |  |
 | microarchitectural |     |  |
 | infuse AI inferencing for real-time insights |     |  |
@@ -171,7 +173,7 @@ Please write a short paper to overview of these above points in the 2024's Bigge
 | Branch Prediction Unit |     |  |
 | On-chip Core Co-Processor|     |  |
 | On-chip Integrated Deflate Accelerator|     |  |
-|On-chip Integrated Artificial Intelligence Accelerator |     |  |
+| On-chip Integrated Artificial Intelligence Accelerator |     |  |
 | |     |  |
 | |     |  |
 | |     |  |
