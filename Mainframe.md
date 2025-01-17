@@ -63,6 +63,9 @@ IBM zSeries—the z16
 Announcing IBM z16:
 Real-time AI for Transaction Processing at Scale and Industry's First Quantum-Safe System
 
+- IBM z16 integrates the IBM Telum processor so clients can infuse AI inferencing for real-time insights
+- IBM z16 is the industry's first quantum-safe system(1)
+
 ```
 Citation: [Real Time AI for Transaction Processing at Scale and Industry Firt Quantum Safe System](https://newsroom.ibm.com/2022-04-05-Announcing-IBM-z16-Real-time-AI-for-Transaction-Processing-at-Scale-and-Industrys-First-Quantum-Safe-System)
 
@@ -72,8 +75,9 @@ IBM zSeries—the z16
 # Reading Materials: MAINFRAMES
 
 
-[Software and Hardware](Computer/HistoryofComputers.pdf)
-[Recent Advances in Natural Language Processing via Large Pre-Trained Language Models: A Survey](Characteristics/NLP1.pdf)
+[Mainframe IBM 360](https://www.ibm.com/history/system-360)
+
+[Real Time AI for Transaction Processing at Scale and Industry Firt Quantum Safe System](https://newsroom.ibm.com/2022-04-05-Announcing-IBM-z16-Real-time-AI-for-Transaction-Processing-at-Scale-and-Industrys-First-Quantum-Safe-System)
 
 
 
@@ -137,8 +141,8 @@ Please write a short paper to overview of these above points in the 2024's Bigge
 
 | Words            | Meaning | Category|
 | :---------------- | :------: | ----: |
-| hardware |     |  |
-| software |     |  |
+| Mainframes |     |  |
+| Real-time |     |  |
 | middleware |     |  |
 | neural scaling laws |     |  |
 | phenomena |    |  |
