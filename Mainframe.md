@@ -195,7 +195,7 @@ Reference:  Hutton, D. (2024). IBM Z/LinuxONE System Processor Optimization Prim
 | |     |  |
 | |     |  |
 
-# Speaking materials: Hardware and Software [Practice]
+# Speaking materials: Mainframes [Practice]
 ## Conversation
 
 
