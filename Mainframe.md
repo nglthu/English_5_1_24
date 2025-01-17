@@ -145,8 +145,8 @@ Please write a short paper to overview of these above points in the 2024's Bigge
 | Mainframes |     |  |
 | Real-time |     |  |
 | microarchitectural |     |  |
-| neural scaling laws |     |  |
-| phenomena |    |  |
+| infuse AI inferencing for real-time insights |     |  |
+| quantum-safe system |    |  |
 | stochastic [stəˈkastik]|     |  |
 | behaviour  |     |  |
 | emergence |    |  |
