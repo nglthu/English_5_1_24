@@ -72,6 +72,19 @@ Citation: [Real Time AI for Transaction Processing at Scale and Industry Firt Qu
 Soucrced: IBM
 IBM zSeries—the z16
 
+## The current to Study
+
+### The trend of AI and Quantum in Mainframe
+
+- IBM z16 integrates the IBM Telum processor so <b>clients can infuse AI inferencing for real-time insights<b>
+- IBM z16 is the industry's first quantum-<b>safe</b> system(1)
+
+### zProcessing Apporach and on Semiconduction
+
+![zProcessing](https://nglthu.github.io/English_5_1_24/img/zProcessor.png)
+
+Sourced: Hutton, D. (2024). IBM Z/LinuxONE System Processor Optimization Primer.
+
 # Required Reading Materials: MAINFRAMES
 
 Hutton, D. (2024). IBM Z/LinuxONE System Processor Optimization Primer.
