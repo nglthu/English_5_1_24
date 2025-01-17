@@ -171,6 +171,8 @@ Please write a short paper to overview of these above points in the 2024's Bigge
 | Branch Prediction Unit |     |  |
 | On-chip Core Co-Processor|     |  |
 | On-chip Integrated Deflate Accelerator|     |  |
+|On-chip Integrated Artificial Intelligence Accelerator |     |  |
+| |     |  |
 | |     |  |
 | |     |  |
 # Speaking materials: Hardware and Software [Practice]
