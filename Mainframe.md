@@ -159,7 +159,7 @@ Reference:  Hutton, D. (2024). IBM Z/LinuxONE System Processor Optimization Prim
 ```
 
 
-[![Skill Mix](https://nglthu.github.io/English_5_1_24/img/skillmix.png)](https://www.youtube.com/watch?v=fTMMsreAqX0)
+![z16 Topologies](https://nglthu.github.io/English_5_1_24/img/z16Topology.png)
 
 
 # Vocabulary
