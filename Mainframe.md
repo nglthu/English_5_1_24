@@ -32,6 +32,10 @@ Sourced: Mainframe in Viettel Datacenter by Viettel
 
 Designed in 1937, the Harvard Mark I, or IBM Automatic Sequence Controlled Calculator
 
+![Harvard Mark I](https://nglthu.github.io/English_5_1_24/img/popularmechanics1944smaller.jpg)
+
+Sourced: Harvard University
+
 
 
 # Reading Materials: MAINFRAMES
