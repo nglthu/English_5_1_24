@@ -150,7 +150,7 @@ Please write a short paper to overview of these above points in the 2024's Bigge
 | stochastic [stəˈkastik]|     |  |
 | behaviour  |     |  |
 | Millicode |    |  |
-| generalisation |     |  |
+| ultra-high frequency pipeline design |     |  |
 | training loss |     |  |
 | random graph |     |  |
 | bipartite [bīˈpärˌtīt] graph |     |  |
