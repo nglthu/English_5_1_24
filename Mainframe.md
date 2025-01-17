@@ -43,6 +43,18 @@ The first modern mainframe, the IBM System/360, hit the market in 1964. Within t
 
 Sourced: IBM
 
+Mainframe is as a core IT infrastructure across industries. 
+In April 2022, IBM unveiled the latest generation of the IBM zSeries—the z16:
+
+IBM zSeries—the z16
++ IBM Telum™ processor with industry-first,
+<b>ON-CHIP</b> integrated accelerators to predict and automate with AI at unprecedented speed and scale
+(and with extremely low latency
+
+
+
+Soucrced: IBM
+IBM zSeries—the z16
 
 # Reading Materials: MAINFRAMES
 
