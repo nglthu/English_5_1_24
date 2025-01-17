@@ -85,6 +85,12 @@ IBM zSeries—the z16
 
 Sourced: Hutton, D. (2024). IBM Z/LinuxONE System Processor Optimization Primer.
 
+### Core & Chip Level
+
+![Core-Level and Chip-level](https://nglthu.github.io/English_5_1_24/img/Core-Chip-level.png)
+
+Sourced: Hutton, D. (2024). IBM Z/LinuxONE System Processor Optimization Primer.
+
 # Required Reading Materials: MAINFRAMES
 
 Hutton, D. (2024). IBM Z/LinuxONE System Processor Optimization Primer.
