@@ -89,6 +89,15 @@ Sourced: Hutton, D. (2024). IBM Z/LinuxONE System Processor Optimization Primer.
 
 ![Core-Level and Chip-level](https://nglthu.github.io/English_5_1_24/img/Core-Chip-level.png)
 
+```
+Moore's law
+is the observation that the number of transistors in an integrated circuit (IC) doubles about every two years.
+Moore's law is an observation and projection of a historical trend.
+Rather than a law of physics, it is an empirical relationship.
+It is an experience-curve law, a type of law quantifying efficiency gains from experience in production.
+
+```
+
 Sourced: Hutton, D. (2024). IBM Z/LinuxONE System Processor Optimization Primer.
 
 # Required Reading Materials: MAINFRAMES
@@ -135,18 +144,17 @@ This strategy contains the following steps:
 
 ## Short_paper
 
-<h1>Writing Materials: Hardware & Software</h1>
+<h1>Writing Materials: Mainframe</h1>
 
 ```
-The unpredictable phenomena of emergent abilities of large language model.
-Model can generalize to random unseen compositions of some level of unpredictable abilities or skills.
-Other phenomena that we probably are not aware of, and we need some understanding of that.
-Language models can move beyond being stochastic parrots.
-For example, Chat bot had some level of understanding but do these abilities reflect actual understanding?
-Otherwise, model simply repeat its training data like so called stochastic parrots. 
+What is the Moore's law applying in the current IBM Z/LinuxONE Mainframe ? How can clients infuse AI inferencing for real-time insights on IBM zSeries-the z16 2022 ?
+
+Hutton, D. (2024) said "Moore’s Law is not dead yet, though we can see the checkered flag on the GPS” and "clients can infuse AI inferencing for real-time insights" on IBM zSeries-the z16 2022. 
 
 
-Please write a short paper to overview of these above points in the 2024's Biggest Breakthroughs in Computer Science.
+Please write a short paper to explain and discuss these points of view. 
+
+Reference:  Hutton, D. (2024). IBM Z/LinuxONE System Processor Optimization Primer.
 
 ```
 
