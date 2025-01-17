@@ -8,6 +8,10 @@ Materials for the Class of CSE803001-5-1-24(N03)
 
 Mainframes are data servers that are designed to process up to 1 trillion web transactions daily with the highest levels of security and reliability
 
+At their core, mainframes are high-performance computers with large amounts of memory and data processors that process billions of simple calculations and transactions in real-time. 
+
+A mainframe computer is critical to commercial databases, transaction servers and applications that require high resiliency, security and agility.
+
 
 # Reading Materials: MAINFRAMES
 
