@@ -30,12 +30,15 @@ Sourced: Mainframe in Viettel Datacenter by Viettel
 
 ## The history of Mainframe
 
+### Harvard Mark I 1937
+
 Designed in 1937, the Harvard Mark I, or IBM Automatic Sequence Controlled Calculator
 
 ![Harvard Mark I](https://nglthu.github.io/English_5_1_24/img/popularmechanics1944smaller.jpg)
 
 Sourced: Harvard University
 
+### IBM System/360
 The first modern mainframe, the IBM System/360, hit the market in 1964. Within two years, the System/360 dominated the mainframe computer market as the industry standard.
 
 ![IBM 370](https://nglthu.github.io/English_5_1_24/img/IBM370.jpeg)
@@ -43,8 +46,13 @@ The first modern mainframe, the IBM System/360, hit the market in 1964. Within t
 
 Sourced: IBM
 
+### IBM zSeries-the z16 2022
+
 Mainframe is as a core IT infrastructure across industries. 
 In April 2022, IBM unveiled the latest generation of the IBM zSeries—the z16:
+
+![IBM z16](https://nglthu.github.io/English_5_1_24/img/IBMz16_Banner_alt.jpg)
+
 
 IBM zSeries—the z16
 + IBM Telum™ processor with industry-first,
