@@ -13,6 +13,16 @@ At their core, mainframes are high-performance computers with large amounts of m
 A mainframe computer is critical to commercial databases, transaction servers and applications that require high resiliency, security and agility.
 
 
+```
+The term mainframe initially referred to the large cabinet or ‘main frame’ that held the central processing unit (CPU) of early computer systems.
+The mainframe served as a central data repository or ‘hub’ that links workstations or terminals in an organization’s data processing center.
+A centralized computing environment has given way to a more distributed computing environment as mainframes became smaller and gained more processing power to be more flexible and multipurpose.
+Today’s mainframes process and store massive amounts of data and are called enterprise servers (or data servers).
+
+
+```
+
+
 # Reading Materials: MAINFRAMES
 
 
