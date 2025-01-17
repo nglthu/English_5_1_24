@@ -169,7 +169,7 @@ Please write a short paper to overview of these above points in the 2024's Bigge
 | bipartite [bīˈpärˌtīt] graph |     |  |
 | High-Level understanding of the microprocessor core |     |  |
 | Branch Prediction Unit |     |  |
-| self-serving biased |     |  |
+| On-chip Core Co-Processor|     |  |
 | metaphor|     |  |
 | |     |  |
 | |     |  |
