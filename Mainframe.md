@@ -164,7 +164,7 @@ Please write a short paper to overview of these above points in the 2024's Bigge
 | behaviour  |     |  |
 | Millicode |    |  |
 | ultra-high frequency pipeline design |     |  |
-| training loss |     |  |
+| self-modifying code |     |  |
 | random graph |     |  |
 | bipartite [bīˈpärˌtīt] graph |     |  |
 | actual language model |     |  |
