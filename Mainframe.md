@@ -188,8 +188,8 @@ Reference:  Hutton, D. (2024). IBM Z/LinuxONE System Processor Optimization Prim
 | On-chip Core Co-Processor|     |  |
 | On-chip Integrated Deflate Accelerator|     |  |
 | On-chip Integrated Artificial Intelligence Accelerator |     |  |
-| |     |  |
-| |     |  |
+| zero download|     |  |
+| redundancy|     |  |
 | |     |  |
 # Speaking materials: Hardware and Software [Practice]
 ## Conversation
