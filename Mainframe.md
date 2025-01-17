@@ -36,6 +36,9 @@ Designed in 1937, the Harvard Mark I, or IBM Automatic Sequence Controlled Calcu
 
 Sourced: Harvard University
 
+The first modern mainframe, the IBM System/360, hit the market in 1964. Within two years, the System/360 dominated the mainframe computer market as the industry standard.
+
+Sourced: IBM
 
 
 # Reading Materials: MAINFRAMES
