@@ -152,7 +152,7 @@ What is the Moore's law applying in the current IBM Z/LinuxONE Mainframe ? How c
 Hutton, D. (2024) said "Moore’s Law is not dead yet, though we can see the checkered flag on the GPS” and "clients can infuse AI inferencing for real-time insights" on IBM zSeries-the z16 2022. 
 
 
-Please write a short paper to explain and discuss these points of view. 
+Please write a short paper to explain and discuss these points of view and its applied technology. 
 
 Reference:  Hutton, D. (2024). IBM Z/LinuxONE System Processor Optimization Primer.
 
