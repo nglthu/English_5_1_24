@@ -72,8 +72,9 @@ Citation: [Real Time AI for Transaction Processing at Scale and Industry Firt Qu
 Soucrced: IBM
 IBM zSeries—the z16
 
-# Reading Materials: MAINFRAMES
+# Required Reading Materials: MAINFRAMES
 
+Hutton, D. (2024). IBM Z/LinuxONE System Processor Optimization Primer.
 
 [Mainframe IBM 360](https://www.ibm.com/history/system-360)
 
