@@ -170,7 +170,7 @@ Please write a short paper to overview of these above points in the 2024's Bigge
 | High-Level understanding of the microprocessor core |     |  |
 | Branch Prediction Unit |     |  |
 | On-chip Core Co-Processor|     |  |
-| metaphor|     |  |
+| On-chip Integrated Deflate Accelerator|     |  |
 | |     |  |
 | |     |  |
 # Speaking materials: Hardware and Software [Practice]
