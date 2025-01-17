@@ -2,9 +2,9 @@
 
 
 Materials for the Class of CSE803001-5-1-24(N03)
-# Lecturing
+# Lecturing about MAINFRAME
 
-## What is mainframe
+## Brief Introduction
 
 Mainframes are data servers that are designed to process up to 1 trillion web transactions daily with the highest levels of security and reliability
 
@@ -22,13 +22,13 @@ Today’s mainframes process and store massive amounts of data and are called en
 
 ```
 
-## What does it look like ?
+## The Look 
 
 ![Mainframe in Viettel Data center](https://nglthu.github.io/English_5_1_24/img/vietteldatacenter_mainframe.jpeg)
 
 Sourced: Mainframe in Viettel Datacenter by Viettel
 
-## The history of Mainframe
+## The History 
 
 ### Harvard Mark I 1937
 
