@@ -17,6 +17,8 @@ The work of central unit processing
 <img src='img/CPU_gates.png'>
 
 How a CPU can work
+<img src='img/howCPUcanwork.png'>
+
 
 | CPU            |Architecture Diagarm| Calculation|
 | :---------------- | :------: | ----: |
@@ -69,7 +71,7 @@ Hutton, D. (2024). IBM Z/LinuxONE System Processor Optimization Primer.
 
 ## Mainframe brief Introduction
 
-[![Watch the video: How a CPU can work](https://nglthu.github.io/English_5_1_24/img/computer.png)](https://www.youtube.com/watch?v=vqs_0W-MSB0)
+[![Watch the video: How a CPU can work](https://nglthu.github.io/English_5_1_24/img/CPU.png)](https://www.youtube.com/watch?v=vqs_0W-MSB0)
 
 
 
