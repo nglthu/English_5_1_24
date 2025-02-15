@@ -11,9 +11,9 @@ Materials for the Class of CSE803001-5-1-24(N03)
 | :---------------- | :------: | ----: |
 | How a CPU can work | <img src='img/CPU_work.png'>     |  <img src='img/CPU_calculation.png'> |
 
-1. Ram
+1. Ram: Random access memory (RAM) is a type of computer memory that stores data and instructions for the central processing unit (CPU). RAM is often called a computer's main memory. 
 
-2. Control Unit : directs operations. It instructs the memory, logic unit, and both output and input devices of the computer on how to respond to the program’s instructions. CPUs and GPUs are examples of devices that use control units.
+2. Control Unit : Directs operations. It instructs the memory, logic unit, and both output and input devices of the computer on how to respond to the program’s instructions. CPUs and GPUs are examples of devices that use control units.
    
 <img src='img/controlunit.png'>
 
