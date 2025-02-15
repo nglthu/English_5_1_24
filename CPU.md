@@ -14,6 +14,12 @@ Materials for the Class of CSE803001-5-1-24(N03)
 
 Step 1. Ram: Random access memory (RAM) is a type of computer memory that stores data and instructions for the central processing unit (CPU). RAM is often called a computer's main memory.
 
++ Data in RAM lost when power is off
+  
++ RAM overwrite data each time
+
++ Value in RAM are Instructions, numbers, and letters by 0s and 1s bits patterns.
+
    How a CPU can work
 <img src='img/howCPUcanwork.png'>
 
