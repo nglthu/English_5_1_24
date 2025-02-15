@@ -119,7 +119,7 @@ This strategy contains the following steps:
 
    ![POWER](https://nglthu.github.io/English_5_1_24/img/appendix.png)
 ## Writing Technique of Tone
-## Writing Technique of Tone
+## Writing Technique of Good Style
 
 ## Short_paper
 
