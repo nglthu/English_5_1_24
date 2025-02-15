@@ -23,6 +23,8 @@ Today’s mainframes process and store massive amounts of data and are called en
 
 ```
 
+[How can a CPU work? Apple Silicon Chip M [System on Chip SoC] vs Intel Chip [9]](https://www.youtube.com/watch?v=vqs_0W-MSB0)
+
 ## The Look 
 
 ![Mainframe in Viettel Data center](https://nglthu.github.io/English_5_1_24/img/vietteldatacenter_mainframe.jpeg)
