@@ -7,6 +7,16 @@ Materials for the Class of CSE803001-5-1-24(N03)
 
 ## Brief Introduction
 
+| CPU            |On Main| Logic Gates|
+| :---------------- | :------: | ----: |
+|  | <img src='img/CPU_look.png'>     |  <img src='img/CPU_gates.png'> |
+
+How a CPU can work
+
+| CPU            |Architecture Diagarm| Calculation|
+| :---------------- | :------: | ----: |
+| How a CPU can work | <img src='img/CPU_work.png'>     |  <img src='img/CPU_calculation.png'> |
+
 ###  The Look 
 Some of the  CPUs up to 2025.
 
@@ -108,12 +118,12 @@ Reference:  Hutton, D. (2024). IBM Z/LinuxONE System Processor Optimization Prim
 
 | Words            | Meaning | Category|
 | :---------------- | :------: | ----: |
-| Mainframes |     |  |
+| CPU |     |  |
 | Core-level|     |  |
 | Chip-level|     |  |
 | Real-time |     |  |
-| microarchitectural |     |  |
-| infuse AI inferencing for real-time insights |     |  |
+| Logic gates|     |  |
+| GPU|     |  |
 | quantum-safe system |    |  |
 | stochastic [stəˈkastik]|     |  |
 | behaviour  |     |  |
