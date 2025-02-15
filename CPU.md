@@ -30,10 +30,10 @@ How a CPU can work
 | ARM vs x86           | ARM | x86|
 | :---------------- | :------: | ----: |
 | |   <img src='img/ARM.png'>   | <img src='img/x86.png'>  |
-||    Using Architecture RISC (Reduced Instruction Set Computers)  | Using Architecture CISC (Complex Instruction Set Computing): process complex instructions simultaneously.   |
-|| Simple Command for simple task|Complex Commands for many complex/simple tasks to reduce times of memory access|
-| |   System on Chip: increasing times of memory access. Need more RAM |chip x86 optimisation of processing speed and RAM savings  |
-|| Future Energy Efficiency|Energy Consumption, inefficiency simple task process  |
+| Instruction set|    Using Architecture RISC (Reduced Instruction Set Computers)  | Using Architecture CISC (Complex Instruction Set Computing): process complex instructions simultaneously.   |
+|Performance| Simple Command for simple task: Fast execution of single instructions|Complex Commands for many complex/simple tasks: Can do many tasks at once|
+| |   System on Chip: increasing times of memory access. Need more RAM |Reduce times of memory access in chip x86. Optimisation of processing speed and RAM savings  |
+|Energy efficiency| Future Energy Efficiency|High Power Consumption  |
 
 
 ###  The Look 
