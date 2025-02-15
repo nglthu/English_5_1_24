@@ -16,6 +16,10 @@ M4 Max features a 16-core CPU that’s up to 2.2x faster than the CPU in M1 Max,
 
 Sourced: M4 Max by Apple (Apple.com, 2025)
 
+| Intel           |Back | Front|
+| :---------------- | :------: | ----: |
+| Intel Core 9| <img src='img/intelCore9_back.png'>     |  <img src='img/intelCore9_front.png'> |
+
 ## The History 
 
 ### Harvard Mark I 1937
