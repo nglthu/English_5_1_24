@@ -11,6 +11,11 @@ Materials for the Class of CSE803001-5-1-24(N03)
 | :---------------- | :------: | ----: |
 |  | <img src='img/CPU_look.png'>     |  <img src='img/CPU_gates.png'> |
 
+
+The work of central unit processing 
+
+<img src='img/CPU_gates.png'>
+
 How a CPU can work
 
 | CPU            |Architecture Diagarm| Calculation|
