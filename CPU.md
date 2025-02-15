@@ -152,7 +152,7 @@ Reference:  Changing Trends in Computer Architecture(Gupta, K. and Sharma, T., 2
 | |     |  |
 | |     |  |
 
-# Speaking materials: Mainframes [Practice]
+# Speaking materials: CPU [Practice]
 ## Conversation
 
 
@@ -171,7 +171,7 @@ Reference:  Changing Trends in Computer Architecture(Gupta, K. and Sharma, T., 2
 | Name            | Role | Conversation|
 | :---------------- | :------: | ----: |
 | Bao | Listener    |  |
-| Van |     | Speaker about ARM or x86 |
+| Van |     | Speaker about ARM or x86 can boost your software development.  |
 
 # Comprehensive / Advanced Exercises
 
