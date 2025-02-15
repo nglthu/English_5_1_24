@@ -72,6 +72,8 @@ Change the way how [sets of] instructions have been  commanded and executed.
 ### System on Chip
 
  A system on a chip  is an integrated circuit that integrates most or all components of a computer or electronic system.
+ 
+ E.g. A system on a chip (SoC) is an integrated circuit that combines a CPU, memory, and other components into a single chip.
 
 
 ###  The Look 
