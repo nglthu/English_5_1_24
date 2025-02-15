@@ -102,15 +102,12 @@ This strategy contains the following steps:
 
 ## Short_paper
 
-<h1>Writing Materials: Mainframe</h1>
+<h1>Writing Materials: CPU</h1>
 
 ```
-What is the Moore's law applying in the current IBM Z/LinuxONE Mainframe ? How can clients infuse AI inferencing for real-time insights on IBM zSeries-the z16 2022 ?
+Gupta, K. and Sharma, T. (2021) said "The shift in the industry towards ARM processors can change how we write softwares which in turn will affect the whole software development environment."
 
-Hutton, D. (2024) said "Moore’s Law is not dead yet, though we can see the checkered flag on the GPS” and "clients can infuse AI inferencing for real-time insights" on IBM zSeries-the z16 2022. 
-
-
-Please write a short paper to explain and discuss these points of view and its applied technology. 
+Please write a short paper to explain and discuss these points of view. 
 
 Reference:  Changing Trends in Computer Architecture(Gupta, K. and Sharma, T., 2021)
 
