@@ -13,8 +13,9 @@ Materials for the Class of CSE803001-5-1-24(N03)
 
 1. Ram
 
-2. 
-
+2. Control Unit : directs operations. It instructs the memory, logic unit, and both output and input devices of the computer on how to respond to the program’s instructions. CPUs and GPUs are examples of devices that use control units.
+   
+<img src='img/controlunit.png'>
 
 | CPU            |On Main| Logic Gates|
 | :---------------- | :------: | ----: |
