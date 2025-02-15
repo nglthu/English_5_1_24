@@ -8,7 +8,7 @@ Materials for the Class of CSE803001-5-1-24(N03)
 ## Brief Introduction
 
 ###  The Look 
-Some of the  CPUs upto 2025.
+Some of the  CPUs up to 2025.
 
 M4 Max features a 16-core CPU that’s up to 2.2x faster than the CPU in M1 Max, and up to 2.5x faster than the latest AI PC chip
 
@@ -19,53 +19,13 @@ Sourced: M4 Max by Apple (Apple.com, 2025)
 | Intel           |Back | Front|
 | :---------------- | :------: | ----: |
 | Intel Core 9| <img src='img/intelCore9_back.png'>     |  <img src='img/intelCore9_front.png'> |
-| Intel 14th gen| Support for the Intel® 700 series chipsets and backwards compatibility with the Intel® 600 series chipsets allow you to access the features you need for any task.  | This architecture features Performance-cores, Efficient-cores and Intel® Thread Director2. With up to 24 cores (8 Performance-cores and 16 Efficient-cores) and up to 32 threads. The Intel® Core i9 processor P-cores are capable of reaching 6.0 GHz with Intel® Thermal Velocity Boost3 4 to elevate performance.|
+| Intel 14th gen| Support for the Intel® 700 series chipsets and backward compatibility with the Intel® 600 series chipsets allow you to access the features you need for any task.  | This architecture features performance cores, Efficient-cores and Intel® Thread Director2. With up to 24 cores (8 Performance-cores and 16 Efficient-cores) and up to 32 threads. The Intel® Core i9 processor P-cores are capable of reaching 6.0 GHz with Intel® Thermal Velocity Boost3 4 to elevate performance.|
 
-Source: ntel® Core™ Desktop Processors by Intel (Intel.com, 2025)
+Source: Intel® Core™ Desktop Processors by Intel (Intel.com, 2025)
 
 ## The History 
 
-### Harvard Mark I 1937
 
-Designed in 1937, the Harvard Mark I, or IBM Automatic Sequence Controlled Calculator
-
-![Harvard Mark I](https://nglthu.github.io/English_5_1_24/img/popularmechanics1944smaller.jpg)
-
-Sourced: Harvard University
-
-### IBM System/360
-The first modern mainframe, the IBM System/360, hit the market in 1964. Within two years, the System/360 dominated the mainframe computer market as the industry standard.
-
-![IBM 370](https://nglthu.github.io/English_5_1_24/img/IBM370.jpeg)
-
-
-Sourced: IBM
-
-### IBM zSeries-the z16 2022
-
-Mainframe is as a core IT infrastructure across industries. 
-In April 2022, IBM unveiled the latest generation of the IBM zSeries—the z16:
-
-![IBM z16](https://nglthu.github.io/English_5_1_24/img/IBMz16_Banner_alt.jpg)
-
-
-IBM zSeries—the z16
-+ IBM Telum™ processor with industry-first,
-<b>ON-CHIP</b> integrated accelerators to predict and automate with AI at unprecedented speed and scale
-(and with extremely low latency
-
-```
-Announcing IBM z16:
-Real-time AI for Transaction Processing at Scale and Industry's First Quantum-Safe System
-
-- IBM z16 integrates the IBM Telum processor so clients can infuse AI inferencing for real-time insights
-- IBM z16 is the industry's first quantum-safe system(1)
-
-```
-Citation: [Real Time AI for Transaction Processing at Scale and Industry Firt Quantum Safe System](https://newsroom.ibm.com/2022-04-05-Announcing-IBM-z16-Real-time-AI-for-Transaction-Processing-at-Scale-and-Industrys-First-Quantum-Safe-System)
-
-Soucrced: IBM
-IBM zSeries—the z16
 
 ## The current to Study
 
