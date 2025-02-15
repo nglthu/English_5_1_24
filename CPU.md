@@ -116,7 +116,7 @@ Reference:  Changing Trends in Computer Architecture(Gupta, K. and Sharma, T., 2
 
 ```
 
-
+![ARM vs x86](https://nglthu.github.io/English_5_1_24/img/x66_arm.png)
 
 
 # Vocabulary
