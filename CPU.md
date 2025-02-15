@@ -29,10 +29,13 @@ Source: Intel® Core™ Desktop Processors by Intel (Intel.com, 2025)
 
 ## The current to Study
 
-### The trend of AI and Quantum in Mainframe
+### The Best CPUs for 2025
 
-- IBM z16 integrates the IBM Telum processor so <b>clients can infuse AI inferencing for real-time insights<b>
-- IBM z16 is the industry's first quantum-<b>safe</b> system(1)
+| The Best CPUs for 2025            | Mainstream, Budget, Fast-end| Game|
+| :---------------- | :------: | ----: |
+| Interms of Mainstream, Budget, Fast-end, Game| <img src='img/list1.png'>     |  <img src='img/list2.png'> |
+
+
 
 ### zProcessing Apporach and on Semiconduction
 
