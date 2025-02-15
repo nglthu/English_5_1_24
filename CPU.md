@@ -12,10 +12,11 @@ Materials for the Class of CSE803001-5-1-24(N03)
 | How a CPU can work | <img src='img/CPU_work.png'>     |  <img src='img/CPU_calculation.png'> |
 
 
-Step 1. Ram fetches information from HardDisk of the Computer
-Random access memory (RAM) is a type of computer memory that stores data and instructions for the central processing unit (CPU). RAM is often called a computer's main memory.
+Step 1. Random access memory (RAM) fetches information from the hard disk of the Computer TO process.  It is a type of computer memory that Stores data and instructions FOR the central processing unit (CPU). RAM is often called a computer's main memory.
 
-+ RAM fetches Information from Hard Disk of Computer
++ RAM fetches Information from Hard Disk of Computer to process.
+  
++ It stores data and instructions for CPU
 
 + Information in RAM is Address and Value.
   
@@ -26,11 +27,11 @@ Random access memory (RAM) is a type of computer memory that stores data and ins
 + Data in RAM lost when power is off
   
 
-   How a CPU can work
+How a CPU can work
 <img src='img/howCPUcanwork.png'>
 
 
-Step 2. Control Unit Directs operations. It instructs the memory, Logic unit, and both output and input devices of the computer on how to respond to the program’s instructions.
+Step 2. Control Unit Directs operations. It instructs the memory, Logic unit (e.g. ALU), and both output and input devices of the computer on how to respond to the program’s instructions.
 
    
 <img src='img/controlunit.png'>
@@ -38,6 +39,7 @@ Step 2. Control Unit Directs operations. It instructs the memory, Logic unit, an
 Step 3. Data moving inside a computer using Bus and stored in each Register
 
 <img src='img/CPU_inside.png'>
+
 
 | CPU            |On Main| Logic Gates|
 | :---------------- | :------: | ----: |
@@ -53,7 +55,7 @@ The work of central unit processing: The Loop of Step 1, 2 and 3.
 
 ## 2. ARM architecture vs x86 Architecture
 
-Change the way how instruction has been executed
+Change the way how [sets of] instructions have been  commanded and executed.
 
 <img src='img/pipelinebranchBehaviourx86.png'>
 
