@@ -7,29 +7,14 @@ Materials for the Class of CSE803001-5-1-24(N03)
 
 ## Brief Introduction
 
-Mainframes are data servers that are designed to process up to 1 trillion web transactions daily with the highest levels of security and reliability
+###  The Look 
+Some of the newest CPUs upto 2025.
 
-At their core, mainframes are high-performance computers with large amounts of memory and data processors that process billions of simple calculations and transactions in real-time. 
+M4 Max features a 16-core CPU that’s up to 2.2x faster than the CPU in M1 Max, and up to 2.5x faster than the latest AI PC chip
 
-A mainframe computer is critical to commercial databases, transaction servers and applications that require high resiliency, security and agility.
+![M4 Max](https://nglthu.github.io/English_5_1_24/img/M4Max.png)
 
-
-```
-The term mainframe initially referred to the large cabinet or ‘main frame’ that held the central processing unit (CPU) of early computer systems.
-The mainframe served as a central data repository or ‘hub’ that links workstations or terminals in an organization’s data processing center.
-A centralized computing environment has given way to a more distributed computing environment as mainframes became smaller and gained more processing power to be more flexible and multipurpose.
-Today’s mainframes process and store massive amounts of data and are called enterprise servers (or data servers).
-
-
-```
-
-[How can a CPU work? Apple Silicon Chip M [System on Chip SoC] vs Intel Chip [9]](https://www.youtube.com/watch?v=vqs_0W-MSB0)
-
-## The Look 
-
-![Mainframe in Viettel Data center](https://nglthu.github.io/English_5_1_24/img/vietteldatacenter_mainframe.jpeg)
-
-Sourced: Mainframe in Viettel Datacenter by Viettel
+Sourced: M4 Max by Apple (Apple.com, 2025)
 
 ## The History 
 
@@ -239,6 +224,7 @@ Prefix in English (Tiền tố trong tiếng Anh)
 # Reference
 
 1. John Burek & Michael Justin Allen Sexton, 2024.  "The Best CPUs for 2025". Retrieved from https://www.pcmag.com/picks/the-best-cpus
+2. Apple.com, 2025. "M4 Max". Retrieved from https://www.apple.com/newsroom/2024/10/apple-introduces-m4-pro-and-m4-max/
 
 
 # Hanoi, January 2025 <img src='img/logo.png' align='right'> 
