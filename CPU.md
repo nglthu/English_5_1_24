@@ -112,7 +112,7 @@ Hutton, D. (2024) said "Moore’s Law is not dead yet, though we can see the che
 
 Please write a short paper to explain and discuss these points of view and its applied technology. 
 
-Reference:  Hutton, D. (2024). IBM Z/LinuxONE System Processor Optimization Primer.
+Reference:  Changing Trends in Computer Architecture(Gupta, K. and Sharma, T., 2021)
 
 ```
 
@@ -135,8 +135,8 @@ Reference:  Hutton, D. (2024). IBM Z/LinuxONE System Processor Optimization Prim
 | GPU|     |  |
 | quantum-safe system |    |  |
 | stochastic [stəˈkastik]|     |  |
-| behaviour  |     |  |
-| Millicode |    |  |
+| ARM  |     |  |
+| x86 |    |  |
 | ultra-high frequency pipeline design |     |  |
 | self-modifying code |     |  |
 | random graph |     |  |
@@ -196,7 +196,7 @@ Prefix in English (Tiền tố trong tiếng Anh)
 1. John Burek & Michael Justin Allen Sexton, 2024.  "The Best CPUs for 2025". Retrieved from https://www.pcmag.com/picks/the-best-cpus
 2. Apple.com, 2025. "M4 Max". Retrieved from https://www.apple.com/newsroom/2024/10/apple-introduces-m4-pro-and-m4-max/
 3. Intel.com, 2025. "Intel® Core™ Desktop Processors" Retrieved from https://www.intel.com/content/www/us/en/products/docs/processors/core/core-14th-gen-desktop-brief.html
-4. Changing Trends in Computer Architecture : A Comprehensive
-Analysis of ARM and x86 Processors 
+4. Changing Trends in Computer Architecture : A Comprehensive Analysis of ARM and x86 Processors
+Gupta, K. and Sharma, T., 2021. Changing trends in computer architecture: A comprehensive analysis of arm and x86 processors. International Journal of Scientific Research in Computer Science, Engineering and Information Technology, 7.
 
 # Hanoi, January 2025 <img src='img/logo.png' align='right'> 
