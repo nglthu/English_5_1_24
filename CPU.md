@@ -118,8 +118,28 @@ This strategy contains the following steps:
 
 
    ![POWER](https://nglthu.github.io/English_5_1_24/img/appendix.png)
-## Writing Technique of Tone
-## Writing Technique of Good Style
+## Writing Technique of Tone ((Zobel, Justin, 2005)
+
++ Objective
+  
++ Accurate
+  
+## Writing Technique of Good Style (Zobel, Justin, 2005).
+
++ Tone (Objective and Accurate)
++ Examples
++ Motivation
++ Balance
++ Voice (Active)
++ Reference and Citation
+
+## Writing Avoidance
++ Straw man
++ Analogies
++ Obfuscation (Ambiguous)
++ The upper hand
+  
+
 
 ## Short_paper
 
@@ -215,5 +235,7 @@ Prefix in English (Tiền tố trong tiếng Anh)
 3. Intel.com, 2025. "Intel® Core™ Desktop Processors" Retrieved from https://www.intel.com/content/www/us/en/products/docs/processors/core/core-14th-gen-desktop-brief.html
 4. Changing Trends in Computer Architecture: A Comprehensive Analysis of ARM and x86 Processors
 Gupta, K. and Sharma, T., 2021. Changing trends in computer architecture: A comprehensive analysis of arm and x86 processors. International Journal of Scientific Research in Computer Science, Engineering and Information Technology, 7.
+5. Karen, Englander, 2019. English for research publication purposes : critical plurilingual pedagogies /, Routledge
+6. Zobel, Justin, 2005. Writing for computer science, Springer.
 
 # Hanoi, January 2025 <img src='img/logo.png' align='right'> 
