@@ -24,6 +24,8 @@ How a CPU can work
 | :---------------- | :------: | ----: |
 | How a CPU can work | <img src='img/CPU_work.png'>     |  <img src='img/CPU_calculation.png'> |
 
+## ARM architecture vs x86 Architecture
+
 ###  The Look 
 Some of the  CPUs up to 2025.
 
@@ -194,5 +196,7 @@ Prefix in English (Tiền tố trong tiếng Anh)
 1. John Burek & Michael Justin Allen Sexton, 2024.  "The Best CPUs for 2025". Retrieved from https://www.pcmag.com/picks/the-best-cpus
 2. Apple.com, 2025. "M4 Max". Retrieved from https://www.apple.com/newsroom/2024/10/apple-introduces-m4-pro-and-m4-max/
 3. Intel.com, 2025. "Intel® Core™ Desktop Processors" Retrieved from https://www.intel.com/content/www/us/en/products/docs/processors/core/core-14th-gen-desktop-brief.html
+4. Changing Trends in Computer Architecture : A Comprehensive
+Analysis of ARM and x86 Processors 
 
 # Hanoi, January 2025 <img src='img/logo.png' align='right'> 
