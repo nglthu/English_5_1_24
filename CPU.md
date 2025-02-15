@@ -3,7 +3,7 @@
 
 
 Materials for the Class of CSE803001-5-1-24(N03)
-# Lecturing about CPU (Computer Processing Unit)
+# Lecturing about CPU ([Computer] Central Processing Unit)
 
 ## Brief Introduction
 
