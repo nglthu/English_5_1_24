@@ -26,6 +26,16 @@ How a CPU can work
 
 ## ARM architecture vs x86 Architecture
 
+
+| ARM vs x86           | ARM | x86|
+| :---------------- | :------: | ----: |
+| CPU |     |  |
+| Core-level|     |  |
+| Chip-level|     |  |
+
+Reduced Instruction Set Computers)
+System on Chip
+
 ###  The Look 
 Some of the  CPUs up to 2025.
 
