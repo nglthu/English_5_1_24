@@ -31,34 +31,15 @@ Source: Intel® Core™ Desktop Processors by Intel (Intel.com, 2025)
 
 ### The Best CPUs for 2025
 
-| The Best CPUs for 2025            | Mainstream, Budget, Fast-end| Game|
+| The Best CPUs for 2025            | Mainstream, Budget, Fast-end| Game and High End Destop Flatform (HEDt)|
 | :---------------- | :------: | ----: |
-| Interms of Mainstream, Budget, Fast-end, Game| <img src='img/list1.png'>     |  <img src='img/list2.png'> |
+| In terms of Mainstream, Budget, Fast-end, High-end, Game| <img src='img/list1.png'>     |  <img src='img/list2.png'> |
+
+Sourced: The Best CPUs for 2025 (John Burek & Michael Justin Allen Sexton, 2025)
 
 
 
-### zProcessing Apporach and on Semiconduction
-
-![zProcessing](https://nglthu.github.io/English_5_1_24/img/zProcessor.png)
-
-Sourced: Hutton, D. (2024). IBM Z/LinuxONE System Processor Optimization Primer.
-
-### Core & Chip Level
-
-![Core-Level and Chip-level](https://nglthu.github.io/English_5_1_24/img/Core-Chip-level.png)
-
-```
-Moore's law
-is the observation that the number of transistors in an integrated circuit (IC) doubles about every two years.
-Moore's law is an observation and projection of a historical trend.
-Rather than a law of physics, it is an empirical relationship.
-It is an experience-curve law, a type of law quantifying efficiency gains from experience in production.
-
-```
-
-Sourced: Hutton, D. (2024). IBM Z/LinuxONE System Processor Optimization Primer.
-
-# Required Reading Materials: MAINFRAMES
+# Required Reading Materials: CPU
 
 Hutton, D. (2024). IBM Z/LinuxONE System Processor Optimization Primer.
 
@@ -68,12 +49,12 @@ Hutton, D. (2024). IBM Z/LinuxONE System Processor Optimization Primer.
 
 
 
-# Listening Materials: MainFrame
+# Listening Materials: CPU
 
 
 ## Mainframe brief Introduction
 
-[![Watch the video: Mainframe](https://nglthu.github.io/English_5_1_24/img/computer.png)](https://www.youtube.com/watch?v=ximv-PwAKnc)
+[![Watch the video: How a CPU can work](https://nglthu.github.io/English_5_1_24/img/computer.png)](https://www.youtube.com/watch?v=vqs_0W-MSB0)
 
 
 
