@@ -41,6 +41,11 @@ The work of central unit processing: The Loop of Step 1, 2 and 3.
 
 ## 2. ARM architecture vs x86 Architecture
 
+Change the way how instruction has been executed
+
+<img src='img/pipelinebranchBehaviourx86.png'>
+
+
 
 | ARM vs x86           | ARM | x86|
 | :---------------- | :------: | ----: |
