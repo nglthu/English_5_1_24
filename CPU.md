@@ -70,18 +70,16 @@ Sourced: The Best CPUs for 2025 (John Burek & Michael Justin Allen Sexton, 2025)
 
 # Required Reading Materials: CPU
 
-Hutton, D. (2024). IBM Z/LinuxONE System Processor Optimization Primer.
 
-[Mainframe IBM 360](https://www.ibm.com/history/system-360)
-
-[Real Time AI for Transaction Processing at Scale and Industry Firt Quantum Safe System](https://newsroom.ibm.com/2022-04-05-Announcing-IBM-z16-Real-time-AI-for-Transaction-Processing-at-Scale-and-Industrys-First-Quantum-Safe-System)
+Changing Trends in Computer Architecture: A Comprehensive Analysis of ARM and x86 Processors
+Gupta, K. and Sharma, T., 2021. Changing trends in computer architecture: A comprehensive analysis of arm and x86 processors. International Journal of Scientific Research in Computer Science, Engineering and Information Technology, 7.
 
 
 
 # Listening Materials: CPU
 
 
-## Mainframe brief Introduction
+## CPU brief Introduction
 
 [![Watch the video: How a CPU can work](https://nglthu.github.io/English_5_1_24/img/CPU.png)](https://www.youtube.com/watch?v=vqs_0W-MSB0)
 
@@ -124,7 +122,6 @@ Reference:  Changing Trends in Computer Architecture(Gupta, K. and Sharma, T., 2
 ```
 
 
-![z16 Topologies](https://nglthu.github.io/English_5_1_24/img/z16Topology.png)
 
 
 # Vocabulary
@@ -164,22 +161,22 @@ Reference:  Changing Trends in Computer Architecture(Gupta, K. and Sharma, T., 2
 ## Conversation
 
 
-3.1 Conversation: the breakthrough of current trends in Mainframe's industry
+3.1 Conversation: Discuss the type of CPU  that you bought recently
 
 | Name            | Role | Conversation|
 | :---------------- | :------: | ----: |
 | Nhat | Listener   |  |
-| Lan |  Speaker about current mainframe   |  |
+| Lan |  Speaker about your current CPU   |  |
 | Duyen |     | Friend to share Conversation |
 
 
 
-3.2 Convesation: Now mentioning about IBM Z/LinuxOne System, and its advance.
+3.2 Conversation: Now mentioning how ARM and/or x86 can boost you in work, and its advance.
 
 | Name            | Role | Conversation|
 | :---------------- | :------: | ----: |
 | Bao | Listener    |  |
-| Van |     | Speaker about IBM Z/LinuxONE System |
+| Van |     | Speaker about ARM or x86 |
 
 # Comprehensive / Advanced Exercises
 
@@ -203,7 +200,7 @@ Prefix in English (Tiền tố trong tiếng Anh)
 1. John Burek & Michael Justin Allen Sexton, 2024.  "The Best CPUs for 2025". Retrieved from https://www.pcmag.com/picks/the-best-cpus
 2. Apple.com, 2025. "M4 Max". Retrieved from https://www.apple.com/newsroom/2024/10/apple-introduces-m4-pro-and-m4-max/
 3. Intel.com, 2025. "Intel® Core™ Desktop Processors" Retrieved from https://www.intel.com/content/www/us/en/products/docs/processors/core/core-14th-gen-desktop-brief.html
-4. Changing Trends in Computer Architecture : A Comprehensive Analysis of ARM and x86 Processors
+4. Changing Trends in Computer Architecture: A Comprehensive Analysis of ARM and x86 Processors
 Gupta, K. and Sharma, T., 2021. Changing trends in computer architecture: A comprehensive analysis of arm and x86 processors. International Journal of Scientific Research in Computer Science, Engineering and Information Technology, 7.
 
 # Hanoi, January 2025 <img src='img/logo.png' align='right'> 
