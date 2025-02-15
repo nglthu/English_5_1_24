@@ -12,19 +12,25 @@ Materials for the Class of CSE803001-5-1-24(N03)
 | How a CPU can work | <img src='img/CPU_work.png'>     |  <img src='img/CPU_calculation.png'> |
 
 
-Step 1. Ram: Random access memory (RAM) is a type of computer memory that stores data and instructions for the central processing unit (CPU). RAM is often called a computer's main memory.
+Step 1. Ram fetches information from HardDisk of the Computer
+Random access memory (RAM) is a type of computer memory that stores data and instructions for the central processing unit (CPU). RAM is often called a computer's main memory.
 
-+ Data in RAM lost when power is off
++ RAM fetches Information from Hard Disk of Computer
+
++ Information in RAM is Address and Value.
+  
++ Value in RAM are Instructions, numbers, and letters by 0s and 1s bits patterns.
   
 + RAM overwrite data each time
 
-+ Value in RAM are Instructions, numbers, and letters by 0s and 1s bits patterns.
++ Data in RAM lost when power is off
+  
 
    How a CPU can work
 <img src='img/howCPUcanwork.png'>
 
 
-Step 2. Control Unit : Directs operations. It instructs the memory, Logic unit, and both output and input devices of the computer on how to respond to the program’s instructions.
+Step 2. Control Unit Directs operations. It instructs the memory, Logic unit, and both output and input devices of the computer on how to respond to the program’s instructions.
 
    
 <img src='img/controlunit.png'>
