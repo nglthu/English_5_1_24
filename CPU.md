@@ -3,27 +3,27 @@
 
 
 Materials for the Class of CSE803001-5-1-24(N03)
-# Lecturing about CPU ([Computer] Central Processing Unit)
+# Part I. Lecturing about CPU ([Computer] Central Processing Unit)
 
-## Brief Introduction
+## 1. Brief Introduction
 
 | CPU            |How CPU can work| In/Out|
 | :---------------- | :------: | ----: |
 | How a CPU can work | <img src='img/CPU_work.png'>     |  <img src='img/CPU_calculation.png'> |
 
 
-1. Ram: Random access memory (RAM) is a type of computer memory that stores data and instructions for the central processing unit (CPU). RAM is often called a computer's main memory.
+Step 1. Ram: Random access memory (RAM) is a type of computer memory that stores data and instructions for the central processing unit (CPU). RAM is often called a computer's main memory.
 
    How a CPU can work
 <img src='img/howCPUcanwork.png'>
 
 
-3. Control Unit : Directs operations. It instructs the memory, Logic unit, and both output and input devices of the computer on how to respond to the program’s instructions.
+Step 2. Control Unit : Directs operations. It instructs the memory, Logic unit, and both output and input devices of the computer on how to respond to the program’s instructions.
 
    
 <img src='img/controlunit.png'>
 
-3. Data moving inside a computer using Bus and stored in each Register
+Step 3. Data moving inside a computer using Bus and stored in each Register
 
 <img src='img/CPU_inside.png'>
 
@@ -32,14 +32,14 @@ Materials for the Class of CSE803001-5-1-24(N03)
 |  | <img src='img/CPU_look.png'>     |  <img src='img/CPU_gates.png'> |
 
 
-The work of central unit processing 
+The work of central unit processing: The Loop of Step 1, 2 and 3. 
 
 <img src='img/CPU_gates.png'>
 
 
 
 
-## ARM architecture vs x86 Architecture
+## 2. ARM architecture vs x86 Architecture
 
 
 | ARM vs x86           | ARM | x86|
@@ -67,11 +67,8 @@ Sourced: M4 Max by Apple (Apple.com, 2025)
 
 Source: Intel® Core™ Desktop Processors by Intel (Intel.com, 2025)
 
-## The History 
+## CPU History
 
-
-
-## The current to Study
 
 ### The Best CPUs for 2025
 
@@ -83,7 +80,7 @@ Sourced: The Best CPUs for 2025 (John Burek & Michael Justin Allen Sexton, 2025)
 
 
 
-# Required Reading Materials: CPU
+# Part II. Required Reading Materials: CPU
 
 
 Changing Trends in Computer Architecture: A Comprehensive Analysis of ARM and x86 Processors
@@ -91,7 +88,7 @@ Gupta, K. and Sharma, T., 2021. Changing trends in computer architecture: A comp
 
 
 
-# Listening Materials: CPU
+# Part III. Listening Materials: CPU
 
 
 ## CPU Brief Introduction
@@ -102,8 +99,8 @@ Gupta, K. and Sharma, T., 2021. Changing trends in computer architecture: A comp
 
 
   
-# Writting 
-## Technique
+# Part III. Writing 
+## Writing Technique of POWER
 
 This new strategic technique is called the Power strategy. 
 This strategy contains the following steps:
@@ -121,6 +118,8 @@ This strategy contains the following steps:
 
 
    ![POWER](https://nglthu.github.io/English_5_1_24/img/appendix.png)
+## Writing Technique of Tone
+## Writing Technique of Tone
 
 ## Short_paper
 
