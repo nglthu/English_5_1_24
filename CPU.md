@@ -81,6 +81,8 @@ Gupta, K. and Sharma, T., 2021. Changing trends in computer architecture: A comp
 
 ## CPU Brief Introduction
 
+[![Watch the video: How a CPU can work](https://nglthu.github.io/English_5_1_24/img/howCPUcanwork.png)](https://www.youtube.com/watch?v=cNN_tTXABUA&t=544s)
+
 [![Watch the video: How a CPU can work](https://nglthu.github.io/English_5_1_24/img/CPU.png)](https://www.youtube.com/watch?v=vqs_0W-MSB0)
 
 
