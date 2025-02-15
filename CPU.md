@@ -13,9 +13,14 @@ Materials for the Class of CSE803001-5-1-24(N03)
 
 1. Ram: Random access memory (RAM) is a type of computer memory that stores data and instructions for the central processing unit (CPU). RAM is often called a computer's main memory. 
 
-2. Control Unit : Directs operations. It instructs the memory, logic unit, and both output and input devices of the computer on how to respond to the program’s instructions. CPUs and GPUs are examples of devices that use control units.
+2. Control Unit : Directs operations. It instructs the memory, Logic unit, and both output and input devices of the computer on how to respond to the program’s instructions.
+
    
 <img src='img/controlunit.png'>
+
+3. Data moving inside a computer using Bus and stored in each Register
+
+<img src='img/CPU_inside.png'>
 
 | CPU            |On Main| Logic Gates|
 | :---------------- | :------: | ----: |
