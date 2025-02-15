@@ -229,12 +229,19 @@ Reference:  Changing Trends in Computer Architecture(Gupta, K. and Sharma, T., 2
 
 
 
-3.2 Conversation: Now mentioning how ARM and/or x86 can boost you in work, and its advance.
+3.2 Conversation: Now mentioning which ARM and/or x86 can boost you in work, and its advance.
 
 | Name            | Role | Conversation|
 | :---------------- | :------: | ----: |
 | Bao | Listener    |  |
-| Van |     | Speaker about ARM or x86 can boost your software development.  |
+| Van |     | Speaker Which ARM or x86 can boost your software development.  |
+
+3.3 Conversation: Finally, mentioning about System on Chip CPU.
+
+| Name            | Role | Conversation|
+| :---------------- | :------: | ----: |
+| Bao | Listener    |  |
+| Van |     | Speaker whether System on Chip CPU is CPU inside CPU ?.  |
 
 # Comprehensive / Advanced Exercises
 
