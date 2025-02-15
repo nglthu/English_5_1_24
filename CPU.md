@@ -29,12 +29,10 @@ How a CPU can work
 
 | ARM vs x86           | ARM | x86|
 | :---------------- | :------: | ----: |
-| CPU |     |  |
-| Core-level|     |  |
-| Chip-level|     |  |
+| |   <img src='img/ARM.png'>   | <img src='img/x86.png'>  |
+||    Reduced Instruction Set Computers  |  |
+| |   System on Chip  |  |
 
-Reduced Instruction Set Computers)
-System on Chip
 
 ###  The Look 
 Some of the  CPUs up to 2025.
@@ -79,14 +77,11 @@ Gupta, K. and Sharma, T., 2021. Changing trends in computer architecture: A comp
 # Listening Materials: CPU
 
 
-## CPU brief Introduction
+## CPU Brief Introduction
 
 [![Watch the video: How a CPU can work](https://nglthu.github.io/English_5_1_24/img/CPU.png)](https://www.youtube.com/watch?v=vqs_0W-MSB0)
 
 
-
-
-  
   
 # Writting 
 ## Technique
@@ -147,7 +142,7 @@ Reference:  Changing Trends in Computer Architecture(Gupta, K. and Sharma, T., 2
 | bipartite [bīˈpärˌtīt] graph |     |  |
 | High-Level understanding of the microprocessor core |     |  |
 | Branch Prediction Unit |     |  |
-| On-chip Core Co-Processor|     |  |
+| System on Chip|     |  |
 | On-chip Integrated Deflate Accelerator|     |  |
 | On-chip Integrated Artificial Intelligence Accelerator |     |  |
 | zero downtime|     |  |
