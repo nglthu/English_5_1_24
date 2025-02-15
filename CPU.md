@@ -8,7 +8,7 @@ Materials for the Class of CSE803001-5-1-24(N03)
 ## Brief Introduction
 
 ###  The Look 
-Some of the newest CPUs upto 2025.
+Some of the  CPUs upto 2025.
 
 M4 Max features a 16-core CPU that’s up to 2.2x faster than the CPU in M1 Max, and up to 2.5x faster than the latest AI PC chip
 
@@ -19,6 +19,9 @@ Sourced: M4 Max by Apple (Apple.com, 2025)
 | Intel           |Back | Front|
 | :---------------- | :------: | ----: |
 | Intel Core 9| <img src='img/intelCore9_back.png'>     |  <img src='img/intelCore9_front.png'> |
+| Intel 14th gen| Support for the Intel® 700 series chipsets and backwards compatibility with the Intel® 600 series chipsets allow you to access the features you need for any task.  | This architecture features Performance-cores, Efficient-cores and Intel® Thread Director2. With up to 24 cores (8 Performance-cores and 16 Efficient-cores) and up to 32 threads. The Intel® Core i9 processor P-cores are capable of reaching 6.0 GHz with Intel® Thermal Velocity Boost3 4 to elevate performance.|
+
+Source: ntel® Core™ Desktop Processors by Intel (Intel.com, 2025)
 
 ## The History 
 
@@ -229,6 +232,6 @@ Prefix in English (Tiền tố trong tiếng Anh)
 
 1. John Burek & Michael Justin Allen Sexton, 2024.  "The Best CPUs for 2025". Retrieved from https://www.pcmag.com/picks/the-best-cpus
 2. Apple.com, 2025. "M4 Max". Retrieved from https://www.apple.com/newsroom/2024/10/apple-introduces-m4-pro-and-m4-max/
-
+3. Intel.com, 2025. "Intel® Core™ Desktop Processors" Retrieved from https://www.intel.com/content/www/us/en/products/docs/processors/core/core-14th-gen-desktop-brief.html
 
 # Hanoi, January 2025 <img src='img/logo.png' align='right'> 
