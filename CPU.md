@@ -69,6 +69,10 @@ Change the way how [sets of] instructions have been  commanded and executed.
 | |   System on Chip: increasing times of memory access. Need more RAM |Reduce times of memory access in chip x86. Optimisation of processing speed and RAM savings  |
 |Energy efficiency| Future Energy Efficiency|High Power Consumption  |
 
+### System on Chip
+
+ A system on a chip  is an integrated circuit that integrates most or all components of a computer or electronic system.
+
 
 ###  The Look 
 Some of the  CPUs up to 2025.
@@ -204,7 +208,7 @@ Reference:  Changing Trends in Computer Architecture(Gupta, K. and Sharma, T., 2
 | On-chip Integrated Artificial Intelligence Accelerator |     |  |
 | zero downtime|     |  |
 | redundancy|     |  |
-| seemlessly|     |  |
+| system-on-chip (SoC /ˌˈɛsoʊsiː/; pl. SoCs /ˌˈɛsoʊsiːz/)|     |  |
 | |     |  |
 | |     |  |
 | |     |  |
