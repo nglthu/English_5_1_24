@@ -7,6 +7,15 @@ Materials for the Class of CSE803001-5-1-24(N03)
 
 ## Brief Introduction
 
+| CPU            |How CPU can work| In/Out|
+| :---------------- | :------: | ----: |
+| How a CPU can work | <img src='img/CPU_work.png'>     |  <img src='img/CPU_calculation.png'> |
+
+1. Ram
+
+2. 
+
+
 | CPU            |On Main| Logic Gates|
 | :---------------- | :------: | ----: |
 |  | <img src='img/CPU_look.png'>     |  <img src='img/CPU_gates.png'> |
@@ -19,10 +28,6 @@ The work of central unit processing
 How a CPU can work
 <img src='img/howCPUcanwork.png'>
 
-
-| CPU            |Architecture Diagarm| Calculation|
-| :---------------- | :------: | ----: |
-| How a CPU can work | <img src='img/CPU_work.png'>     |  <img src='img/CPU_calculation.png'> |
 
 ## ARM architecture vs x86 Architecture
 
