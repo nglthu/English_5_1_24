@@ -77,6 +77,10 @@ In technical terms: Change the way how [sets of] instructions have been  command
 
 + Without caching, more main memory bandwidth being used for instruction fetching, resulting in a higher memory power consumption
 
++ When the processor incorporates an on-chip cache of a particular size, poor code density results in a smaller
+pro-portion of the working set being held in the cache at any time, increasing the cache
+miss rate, resulting in an even greater increase in the main memory bandwidth requirement and consequent power consumption.
+
 In 1980 standard semiconductor memories (DRAMs - Dynamic Random Access Memories) could operate at around 3 MHz for random accesses and at 6 MHz for sequential (page mode) accesses. 
 
 The CISC microprocessors of the time could access memory at most at 2 MHz, so memory bandwidth was not being exploited
