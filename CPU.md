@@ -55,7 +55,13 @@ The work of central unit processing: The Loop of Step 1, 2 and 3.
 
 ## 2. ARM architecture vs x86 Architecture
 
-Change the way how [sets of] instructions have been  commanded and executed.
+In brief: Their difference is different ISAs(Instruction Set Architectures), using different methods of handling the
+same problem. 
+The output will be the same but the way in which we handle a mathematical problem will be different. 
+
+This difference in the ISA affects how many instruction cycles will be performed for any given task affecting the power usage, performance, memory usage, heat generation, and more. 
+
+In technical terms: Change the way how [sets of] instructions have been  commanded and executed.
 
 <img src='img/pipelinebranchBehaviourx86.png'>
 
