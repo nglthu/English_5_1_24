@@ -70,7 +70,8 @@ In technical terms: Change the way how [sets of] instructions have been  command
 
 
 + A simple instruction set greatly simplifies the design of the pipeline.
-• A high clock rate with single-cycle execution.
+  
++ A high clock rate with single-cycle execution.
 
 In 1980 standard semiconductor memories (DRAMs - Dynamic Random Access Memories) could operate at around 3 MHz for random accesses and at 6 MHz for sequential (page mode) accesses. 
 
