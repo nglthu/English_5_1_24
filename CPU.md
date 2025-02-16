@@ -89,6 +89,9 @@ Summary of Comparision between x86 and ARM (Gupta, K. and Sharma, T., 2021)
  
  E.g. A system on a chip (SoC) is an integrated circuit that combines a CPU, memory, and other components into a single chip.
 
+A simple processor should require fewer transistors and less silicon area. 
+Therefore a whole CPU will fit on a chip at an earlier stage in process technology development, and once the technology has developed beyond the point where either CPU will fit on a chip.
+RISC CPU leaves more die area free for performance-enhancing features such as cache memory, memory management functions, floating-point hardware, and so on.
 
 ###  The Look 
 Some of the  CPUs up to 2025.
