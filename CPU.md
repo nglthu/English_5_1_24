@@ -73,6 +73,10 @@ In technical terms: Change the way how [sets of] instructions have been  command
   
 + A high clock rate with single-cycle execution.
 
++ Poor code Density due to fixed-length instruction set
+
++ Without caching, more main memory bandwidth being used for instruction fetching, resulting in a higher memory power consumption
+
 In 1980 standard semiconductor memories (DRAMs - Dynamic Random Access Memories) could operate at around 3 MHz for random accesses and at 6 MHz for sequential (page mode) accesses. 
 
 The CISC microprocessors of the time could access memory at most at 2 MHz, so memory bandwidth was not being exploited
