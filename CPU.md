@@ -80,6 +80,12 @@ to the full.
 
 RISC processors, being rather simpler, could be designed to operate at clock rates that would use all the available memory bandwidth.
 
++ RISC processors  won the performance battle and should cost less to design, 
+
++ RISCs generally have poor code density compared with CISCs.
+
++ RISCs don't execute x86 code.
+
 
 | ARM vs x86           | ARM | x86|
 | :---------------- | :------: | ----: |
