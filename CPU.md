@@ -227,7 +227,7 @@ Reference:  Changing Trends in Computer Architecture(Gupta, K. and Sharma, T., 2
 ![ARM vs x86](https://nglthu.github.io/English_5_1_24/img/x66_arm.png)
 
 ```
-On page 26 of the book "ARM System of Chip Architecture", it said "one of the drawbacks of RISC is when the processor incorporates an on-chip cache of a particular size, poor code density results in a smaller proportion of the working set being held in the cache at any time, increasing the cache miss rate, resulting in an even greater increase in the main memory bandwidth requirement and consequent power consumption."
+On page 26 of the book "ARM System of Chip Architecture" (The University of Manchester, n.d), it said "one of the drawbacks of RISC is when the processor incorporates an on-chip cache of a particular size, poor code density results in a smaller proportion of the working set being held in the cache at any time, increasing the cache miss rate, resulting in an even greater increase in the main memory bandwidth requirement and consequent power consumption."
 
 Using the writing techniques of POWER, Good Style (Zobel, Justin, 2005) and  "so-called myth" of Linguistic injustice (Englander Karen, 2019, p.30), to research how Apple Chip can reduce power and have power efficiency in their model. 
 
@@ -321,6 +321,6 @@ Prefix in English (Tiền tố trong tiếng Anh)
 Gupta, K. and Sharma, T., 2021. Changing trends in computer architecture: A comprehensive analysis of arm and x86 processors. International Journal of Scientific Research in Computer Science, Engineering and Information Technology, 7.
 5. Karen, Englander, 2019. English for research publication purposes : critical plurilingual pedagogies /, Routledge
 6. Zobel, Justin, 2005. Writing for computer science, Springer.
-7. ARM system on Chip, n.d. Retrieved from http://www.cs.man.ac.uk/amulet/publications/books/ARMsysArch
+7. The University of Manchester, n.d., "ARM system on Chip". Retrieved from http://www.cs.man.ac.uk/amulet/publications/books/ARMsysArch
 
 # Hanoi, January 2025 <img src='img/logo.png' align='right'> 
