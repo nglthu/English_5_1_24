@@ -50,7 +50,10 @@ The work of central unit processing: The Loop of Step 1, 2 and 3.
 
 <img src='img/CPU_gates.png'>
 
++ Pipelining: Pipelining is the simplest form of concurrency to implement in a processor and
+delivers around two to three times speed-up.
 
++ Clock rate
 
 
 ## 2. ARM architecture vs x86 Architecture
@@ -65,6 +68,16 @@ In technical terms: Change the way how [sets of] instructions have been  command
 
 <img src='img/pipelinebranchBehaviourx86.png'>
 
+
++ A simple instruction set greatly simplifies the design of the pipeline.
+• A high clock rate with single-cycle execution.
+
+In 1980 standard semiconductor memories (DRAMs - Dynamic Random Access Memories) could operate at around 3 MHz for random accesses and at 6 MHz for sequential (page mode) accesses. 
+
+The CISC microprocessors of the time could access memory at most at 2 MHz, so memory bandwidth was not being exploited
+to the full. 
+
+RISC processors, being rather simpler, could be designed to operate at clock rates that would use all the available memory bandwidth.
 
 
 | ARM vs x86           | ARM | x86|
