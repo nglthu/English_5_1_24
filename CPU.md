@@ -69,6 +69,11 @@ Change the way how [sets of] instructions have been  commanded and executed.
 | |   System on Chip: increasing times of memory access. Need more RAM |Reduce times of memory access in chip x86. Optimisation of processing speed and RAM savings  |
 |Energy efficiency| Future Energy Efficiency|High Power Consumption  |
 
+Summary of Comparision between x86 and ARM (Gupta, K. and Sharma, T., 2021)
+ <img src='img/c1.png'>
+ <img src='img/c2.png'>
+ <img src='img/c3.png'>
+ <img src='img/c4.png'>
 ### System on Chip
 
  A system on a chip  is an integrated circuit that integrates most or all components of a computer or electronic system.
