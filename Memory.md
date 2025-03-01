@@ -179,26 +179,17 @@ This strategy contains the following steps:
 
 ## Short_paper
 
-<h1>Writing Materials: CPU</h1>
+<h1>Writing Materials: Memory</h1>
 
 ```
-Gupta, K. and Sharma, T. (2021) said "The shift in the industry towards ARM processors can change how we write softwares which in turn will affect the whole software development environment."
+Seongjae (2022) stated the author's sate of mind of Neuromorphic computing architectures
 
-Please write a short paper to explain and discuss these points of view. 
+Please write a short paper to explain and discuss your points of view. 
 
-Reference:  Changing Trends in Computer Architecture(Gupta, K. and Sharma, T., 2021)
-
-```
-
-![ARM vs x86](https://nglthu.github.io/English_5_1_24/img/x66_arm.png)
-
-```
-On page 26 of the book "ARM System of Chip Architecture" (The University of Manchester, n.d), it said "one of the drawbacks of RISC is when the processor incorporates an on-chip cache of a particular size, poor code density results in a smaller proportion of the working set being held in the cache at any time, increasing the cache miss rate, resulting in an even greater increase in the main memory bandwidth requirement and consequent power consumption."
-
-Using the writing techniques of POWER, Good Style (Zobel, Justin, 2005) and  "so-called myth" of Linguistic injustice (Englander Karen, 2019, p.30), to research how Apple Chip can reduce power and have power efficiency in their model. 
 
 
 ```
+
 
 # Vocabulary
  
@@ -227,37 +218,35 @@ Using the writing techniques of POWER, Good Style (Zobel, Justin, 2005) and  "so
 | |     |  |
 | |     |  |
 
-# Speaking materials: CPU [Practice]
+# Speaking materials: Memory [Practice]
 ## Conversation
 
 
-3.1 Conversation: Discuss the type of CPU  that you bought recently
+3.1 Conversation: Discuss the type of Memory  that you bought recently
 
 | Name            | Role | Conversation|
 | :---------------- | :------: | ----: |
 | Nhat | Listener   |  |
-| Lan |  Speaker about your current CPU   |  |
+| Lan |  Speaker about your current Memory   |  |
 | Duyen |     | Friend to share Conversation |
 
 
 
-3.2 Conversation: Now mentioning which ARM and/or x86 can boost you in work, and its advance.
+3.2 Conversation: Now mentioning about the future in-memory computation in RAM.
 
 | Name            | Role | Conversation|
 | :---------------- | :------: | ----: |
-| Bao | Listener    |  |
-| Van |     | Speaker Which ARM or x86 can boost your software development.  |
+| Bao | What do you think about the in-memory quantum computation in RAM? Do you agree that they are [not] opposite with the nature of RAM architecture?   |  |
+| Van |     | Discuss  |
 
-3.3 Conversation: Finally, mentioning about System on Chip CPU.
+3.3 Conversation: Finally, mentioning the change in Capacitor and Transistor of RAM.
+
+
 
 | Name            | Role | Conversation|
 | :---------------- | :------: | ----: |
-| Bao | Listener    |  |
-| Van |     | Speaker whether System on Chip CPU is CPU inside CPU ?.  |
-
-# Comprehensive / Advanced Exercises
-
-# Grammar Lesson
+| Bao | Discussion    |  |
+| Van |     | Discussion  |
 
 
 
@@ -266,4 +255,4 @@ Using the writing techniques of POWER, Good Style (Zobel, Justin, 2005) and  "so
 1. Cho, Seongjae. "Volatile and nonvolatile memory devices for neuromorphic and processing-in-memory applications." J. Semicond. Technol. Sci 22, no. 1 (2022): 30-46.
 2. Ted Ed
 3. Tech Target
-# Hanoi, January 2025 <img src='img/logo.png' align='right'> 
+# Hanoi, March 2025 <img src='img/logo.png' align='right'> 
