@@ -23,46 +23,49 @@ Materials for the Class of CSE803001-5-1-24(N03)
 Memory is an Electronic holding place for the instructions and data.
 It is used by the computer's operating system, hardware, and software.
 
-Design a RAM: including:
+#### An Example of RAM (Random Access Memory)Circuit
 
 <img src='img/f-ram.jpg'>
 
 
-+ Capacitor
++ <b>Capacitor</b>
 
 <img src='img/capacitor.jpg'>
   
-A capacitor in RAM (Random Access Memory) stores an electrical charge that represents a 1 or 0.
+A capacitor  stores an electrical charge that represents a 1 or 0.
 
 The capacitor is part of a memory cell that also contains a transistor. 
 
-+ Transistor
++ <b>Transistor</b>
 
   <img src='img/transistor.jpg'>
 
-  Transistors are used in RAM (random access memory) as switches to read and change the state of capacitors that store data
+  Transistors are used in RAM  as switches to read and change the state of capacitors that store data
 
-+ Resistor
++ <b> Resistor</b>
   
 <img src='img/resistor.jpg'>
 
   a type of passive electrical device that can change its resistance based on the history of voltage or current applied to it.
+  
   Essentially, it is a non-volatile memory element that retains its state even when the power is turned off.
   
 
 ### Classification
 
 <img src='img/memorytype.png'>
-1. Primary Memory
-   Located directly on microchips on the motherboard that are physically close to a computer's microprocessor.
+
+#### Primary Memory
+   
+Located directly on microchips on the motherboard that are physically close to a computer's microprocessor.
 
 Memory is used as a synonym for primary memory 
 
-   For example: RAM
+For example: RAM
 
-2. Secondary Memory (Second storage device)
+#### Secondary Memory (Second storage device)
 
-   For example: A hard drive or a hard disk drive (HDD)
+For example: A hard drive or a hard disk drive (HDD) or USB
    
 |Hardisk| Optical based Storage (DVD and Blu-ray)          | USB/Stick Float Gate Transitors | 
 | :---------------- | :------: | :------: | 
@@ -79,6 +82,7 @@ Memory is used as a synonym for primary memory
 ||    Gone after power-off  | Remain |
 |Performance| Fast|Slow|
 
+
 ## 2. Future of Memory
 
 
@@ -87,6 +91,17 @@ Current technologies, the data in the memory can last for 10 years
 ```
 Scientists are working to exploit the physical properties of materials
 down to the level of quantum and more durable
+
+
+Neuromorphic computation for higher energy efficiency and superb parallelism in big data processing.
+
+All-circuit AI chip
+
+More hardware-oriented state-of-the-art neuromorphic chips 
+
+Quantum-well charge-trap synaptic transistor 
+
+
 ```
 
 
@@ -200,14 +215,8 @@ Using the writing techniques of POWER, Good Style (Zobel, Justin, 2005) and  "so
 | RAM|     |  |
 | DRAM|    |  |
 | resistor|    device having a designed resistance to the passage of an electric current.  |  |
-| ARM  |     |  |
-| x86 |    |  |
-| ultra-high frequency pipeline design |     |  |
-| self-modifying code |     |  |
-| random graph |     |  |
-| bipartite [bīˈpärˌtīt] graph |     |  |
-| High-Level understanding of the microprocessor core |     |  |
-| Branch Prediction Unit |     |  |
+| neuromorphic  |     |  |
+| state-of-the-art |    |  |
 | System on Chip|     |  |
 | On-chip Integrated Deflate Accelerator|     |  |
 | On-chip Integrated Artificial Intelligence Accelerator |     |  |
