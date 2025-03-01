@@ -60,6 +60,13 @@ Volatile and Nonvolatile Memory Devices for Neuromorphic and Processing-in-memor
 
 Cho, Seongjae. "Volatile and nonvolatile memory devices for neuromorphic and processing-in-memory applications." J. Semicond. Technol. Sci 22, no. 1 (2022): 30-46.
 
++  Neuromorphic computing architectures are specifically designed for higher energy efficiency and superb parallelism in big data processing.
+
++  All-circuit AI chip
+
++ More hardware-oriented state-of-the-art neuromorphic chips have been incessantly released with the full Si CMOS processing compatibility
+
++ Quantum-well charge-trap synaptic transistor 
 
 # Part III. Listening Materials: Memory
 
