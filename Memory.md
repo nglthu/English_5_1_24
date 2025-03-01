@@ -3,57 +3,28 @@
 
 
 Materials for the Class of CSE803001-5-1-24(N03)
-# Part I. Lecturing about CPU ([Computer] Central Processing Unit)
-
+# Part I. Lecturing about Memory
 ## 1. Brief Introduction
+<img src='img/memory.png'>
 
-| CPU            |How CPU can work| In/Out|
-| :---------------- | :------: | ----: |
-| How a CPU can work | <img src='img/CPU_work.png'>     |  <img src='img/CPU_calculation.png'> |
+### Definition
 
+Memory is an Electronic holding place for the instructions and data.
+It is used by the computer's operating system, hardware, and software.
 
-Step 1. Random access memory (RAM) fetches information from the hard disk of the Computer TO process.  It is a type of computer memory that Stores data and instructions FOR the central processing unit (CPU). RAM is often called a computer's main memory.
+### Classification
 
-+ RAM fetches Information from Hard Disk of Computer to process.
-  
-+ It stores data and instructions for CPU
+1. Primary Memory
+   Located directly on microchips on the motherboard that physcially close to a computer's microprocessor.
 
-+ Information in RAM is Address and Value.
-  
-+ Value in RAM are Instructions, numbers, and letters by 0s and 1s bits patterns.
-  
-+ RAM overwrite data each time
+   For example: RAM
 
-+ Data in RAM lost when power is off
-  
-
-How a CPU can work
-<img src='img/howCPUcanwork.png'>
-
-
-Step 2. Control Unit Directs operations. It instructs the memory, Logic unit (e.g. ALU), and both output and input devices of the computer on how to respond to the program’s instructions.
-
+3. Secondary Memory (Second storage device)
    
-<img src='img/controlunit.png'>
-
-Step 3. Data moving inside a computer using Bus and stored in each Register
-
-<img src='img/CPU_inside.png'>
+   
 
 
-| CPU            |On Main| Logic Gates|
-| :---------------- | :------: | ----: |
-|  | <img src='img/CPU_look.png'>     |  <img src='img/CPU_gates.png'> |
 
-
-The work of central unit processing: The Loop of Step 1, 2 and 3. 
-
-<img src='img/CPU_gates.png'>
-
-+ Pipelining: Pipelining is the simplest form of concurrency to implement in a processor and
-delivers around two to three times speed-up.
-
-+ Clock rate
 
 
 ## 2. ARM architecture vs x86 Architecture
