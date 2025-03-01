@@ -181,11 +181,29 @@ This strategy contains the following steps:
 
 <h1>Writing Materials: Memory</h1>
 
+"The semiconductor memories let aside the advancements in processor technologies now is being moved to the
+center of renovation toward the future computers in the ultimate architecture. In his review, the roles and requirements of semiconductor memories for memory-oriented processors are investigated in the highlights of applications in the neuromorphic system
+and processing-in-memory architectures (Seongjae, 2022).
+
+Seongjae (2022) has reviewed some main points as below:
+
++ Architecture of a CNN accelerator with DRAM
+
++ Si-based floating-body synaptic transistor 
+
++ Quantum-well charge-trap synaptic transistor
+
++ Device structure of core-shell dual-gate nanowire synaptic transistor
+
++ Resistance-change Memory Synaptic Devices
+
++ Memory bottleneck in the serial-processing computers.
+
 ```
-Seongjae (2022) stated the author's sate of mind of Neuromorphic computing architectures
 
-Please write a short paper to explain and discuss your points of view. 
 
+Please write a short paper to explain and discuss the point of view that:
+Whether the transistors in Seonjae's review are "switches to read and change the state of capacitors (stores an electrical charge that represents a 1 or 0) that store data"
 
 
 ```
