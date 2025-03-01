@@ -14,16 +14,18 @@ It is used by the computer's operating system, hardware, and software.
 
 Design a RAM: including:
 
+<img src='img/f-ram.jpg'>
+
 + Resistor
   
-<img src='img/resistor.png'>
+<img src='img/resistor.jpg'>
 
   a type of passive electrical device that can change its resistance based on the history of voltage or current applied to it.
   Essentially, it is a non-volatile memory element that retains its state even when the power is turned off.
   
 + Capacitor
 
-<img src='img/capacitor.png'>
+<img src='img/capacitor.jpg'>
   
 A capacitor in RAM (Random Access Memory) stores an electrical charge that represents a 1 or 0.
 
@@ -31,7 +33,7 @@ The capacitor is part of a memory cell that also contains a transistor.
 
 + Transistor
 
-  <img src='img/transistor.png'>
+  <img src='img/transistor.jpg'>
 
   Transistors are used in RAM (random access memory) as switches to read and change the state of capacitors that store data
 
@@ -76,6 +78,10 @@ down to the level of quantum and more durable
 
 
 Volatile and Nonvolatile Memory Devices for Neuromorphic and Processing-in-memory Applications in JOURNAL OF SEMICONDUCTOR TECHNOLOGY
+
+<img src='img/inMemoryComputingWithRandom.png'>
+
+
 
 Cho, Seongjae. "Volatile and nonvolatile memory devices for neuromorphic and processing-in-memory applications." J. Semicond. Technol. Sci 22, no. 1 (2022): 30-46.
 
