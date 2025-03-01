@@ -141,7 +141,7 @@ Using the writing techniques of POWER, Good Style (Zobel, Justin, 2005) and  "so
 | :---------------- | :------: | ----: |
 | volatile |     |  |
 | nonvolatile|     |  |
-|capacitor| to remain power    |kəˈpasədər  |
+|capacitor|  it is a device capable of storing electrical charge and releasing electrical charge when needed    |kəˈpasədər  |
 | transistor |     |  |
 |latency|     |  |
 | RAN|     |  |
