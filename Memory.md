@@ -250,14 +250,14 @@ Whether the transistors in Seonjae's review are "switches to read and change the
 
 
 
-3.2 Conversation: Now mentioning about the future in-memory computation in RAM.
+3.2 Conversation: Now please mention about the future in-memory computation in RAM.
 
 | Name            | Role | Conversation|
 | :---------------- | :------: | ----: |
-| Bao | What do you think about the in-memory quantum computation in RAM? Do you agree that they are [not] opposite with the nature of RAM architecture?   |  |
+| Bao | What do you think about the in-memory quantum computation in RAM? Whether the in-memory quantum computation in Primary Memory is contrasted with the nature of RAM architecture?   |  |
 | Van |     | Discuss  |
 
-3.3 Conversation: Finally, mentioning the change in Capacitor and Transistor of RAM.
+3.3 Conversation: Finally, please mention the change in Capacitors and Transistors of Primary Memory.
 
 
 
@@ -268,9 +268,11 @@ Whether the transistors in Seonjae's review are "switches to read and change the
 
 
 
-# Reference
+# References
 
 1. Cho, Seongjae. "Volatile and nonvolatile memory devices for neuromorphic and processing-in-memory applications." J. Semicond. Technol. Sci 22, no. 1 (2022): 30-46.
-2. Ted Ed
-3. Tech Target
+2. Karen, Englander, 2019. English for research publication purposes: critical plurilingual pedagogies /, Routledge
+3. Zobel, Justin, 2005. Writing for computer science, Springer.
+4. Ted Ed
+5. Tech Target
 # Hanoi, March 2025 <img src='img/logo.png' align='right'> 
