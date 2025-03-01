@@ -14,7 +14,12 @@ It is used by the computer's operating system, hardware, and software.
 
 Design a RAM: including:
 + Resistor
+  
 + Capacitor
+
++ Transistor
+
+  Transistors are used in RAM (random access memory) as switches to read and change the state of capacitors that store data
 
 ### Classification
 
