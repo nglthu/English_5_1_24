@@ -141,11 +141,11 @@ Using the writing techniques of POWER, Good Style (Zobel, Justin, 2005) and  "so
 | :---------------- | :------: | ----: |
 | volatile |     |  |
 | nonvolatile|     |  |
-| Chip-level|     |  |
-| Real-time |     |  |
-| Logic gates|     |  |
-| GPU|     |  |
-| quantum-safe system |    |  |
+|capacitor| to remain power    |kəˈpasədər  |
+| transistor |     |  |
+|latency|     |  |
+| RAN|     |  |
+| DRAM|    |  |
 | stochastic [stəˈkastik]|     |  |
 | ARM  |     |  |
 | x86 |    |  |
