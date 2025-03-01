@@ -259,28 +259,11 @@ Using the writing techniques of POWER, Good Style (Zobel, Justin, 2005) and  "so
 
 # Grammar Lesson
 
-Prefix in English (Tiền tố trong tiếng Anh)
-
-| Prefix/Meaning            |Prefix/Meaning | Prefix/Meaning|
-| :---------------- | :------: | ----: |
-| <img src='img/1_anti.png'> | <img src='img/2_auto.png'>     |  <img src='img/3_co.png'> |
-| <img src='img/4_dis.png'> | <img src='img/5_hyper.png'>     |  <img src='img/6_inter.png'> |
-| <img src='img/7_non.png'> | <img src='img/8_post.png'>     |  <img src='img/9_trans.png'> |
-| <img src='img/10_un.png'> | <img src='img/11_pre.png'>     |  <img src='img/12_ex.png'> |
-| <img src='img/13_mis.png'> | <img src='img/14_over.png'>     |  <img src='img/15_under.png'> |
-
-| more... |  
 
 
 # Reference
 
-1. John Burek & Michael Justin Allen Sexton, 2024.  "The Best CPUs for 2025". Retrieved from https://www.pcmag.com/picks/the-best-cpus
-2. Apple.com, 2025. "M4 Max". Retrieved from https://www.apple.com/newsroom/2024/10/apple-introduces-m4-pro-and-m4-max/
-3. Intel.com, 2025. "Intel® Core™ Desktop Processors" Retrieved from https://www.intel.com/content/www/us/en/products/docs/processors/core/core-14th-gen-desktop-brief.html
-4. Changing Trends in Computer Architecture: A Comprehensive Analysis of ARM and x86 Processors
-Gupta, K. and Sharma, T., 2021. Changing trends in computer architecture: A comprehensive analysis of arm and x86 processors. International Journal of Scientific Research in Computer Science, Engineering and Information Technology, 7.
-5. Karen, Englander, 2019. English for research publication purposes : critical plurilingual pedagogies /, Routledge
-6. Zobel, Justin, 2005. Writing for computer science, Springer.
-7. The University of Manchester, n.d., "ARM system on Chip". Retrieved from http://www.cs.man.ac.uk/amulet/publications/books/ARMsysArch
-
+1. Cho, Seongjae. "Volatile and nonvolatile memory devices for neuromorphic and processing-in-memory applications." J. Semicond. Technol. Sci 22, no. 1 (2022): 30-46.
+2. Ted Ed
+3. Tech Target
 # Hanoi, January 2025 <img src='img/logo.png' align='right'> 
