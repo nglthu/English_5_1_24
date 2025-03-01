@@ -56,10 +56,9 @@ Gupta, K. and Sharma, T., 2021. Changing trends in computer architecture: A comp
 
 [![Watch the video: Brief Introduction](https://nglthu.github.io/English_5_1_24/img/howCPUcanwork.png)](https://www.youtube.com/watch?v=H_M--weEzpA&t=119s)
 
-[![Watch the video: How a CPU can work](https://nglthu.github.io/English_5_1_24/img/CPU.png)](https://www.youtube.com/watch?v=vqs_0W-MSB0)
+[![Watch the video: How computer memory can work](https://nglthu.github.io/English_5_1_24/img/CPU.png)](https://www.youtube.com/watch?v=p3q5zWCw8J4&list=PPSV&t=30s)
 
 
-  
 # Part III. Writing 
 ## Writing Technique of POWER
 
