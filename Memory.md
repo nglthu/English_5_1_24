@@ -14,6 +14,7 @@ It is used by the computer's operating system, hardware, and software.
 
 ### Classification
 
+<img src='img/memorytype.png'>
 1. Primary Memory
    Located directly on microchips on the motherboard that physically close to a computer's microprocessor.
 
