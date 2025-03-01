@@ -36,8 +36,15 @@ Memory is used as a synonym for primary memory
 ||    Gone after power-off  | Remain |
 |Performance| Fast|Slow|
 
-## 2. 
+## 2. Future of Memory
 
+
+Current technologies, the data in the memory can last for 10 years
+
+```
+Scientists are working to exploit the physical properties of materials
+down to the level of quantum and more durable
+```
 
 
 
