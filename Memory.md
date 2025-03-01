@@ -63,7 +63,11 @@ Memory is used as a synonym for primary memory
 
    For example: A hard drive or a hard disk drive (HDD)
    
-   
+|Hardisk| Optical based Storage (DVD and Blu-ray)          | USB/Stick Float Gate Transitors | 
+| :---------------- | :------: | :------: | 
+|Magnetic storage. Data is stored as a magnetic pattern on a spinning disc coated with magnetic film| Bits are encoded as light and dark spots using a dye that can be read by laser| Store bits by trapping or removing electrical charges |
+|<img src='img/mem/19.png'>|    <img src='img/mem/22.png'>  | <img src='img/mem/25.png'> |
+
 
 ### Comparision
 
