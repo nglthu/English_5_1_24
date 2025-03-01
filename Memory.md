@@ -26,13 +26,7 @@ Design a RAM: including:
 
 <img src='img/f-ram.jpg'>
 
-+ Resistor
-  
-<img src='img/resistor.jpg'>
 
-  a type of passive electrical device that can change its resistance based on the history of voltage or current applied to it.
-  Essentially, it is a non-volatile memory element that retains its state even when the power is turned off.
-  
 + Capacitor
 
 <img src='img/capacitor.jpg'>
@@ -46,6 +40,14 @@ The capacitor is part of a memory cell that also contains a transistor.
   <img src='img/transistor.jpg'>
 
   Transistors are used in RAM (random access memory) as switches to read and change the state of capacitors that store data
+
++ Resistor
+  
+<img src='img/resistor.jpg'>
+
+  a type of passive electrical device that can change its resistance based on the history of voltage or current applied to it.
+  Essentially, it is a non-volatile memory element that retains its state even when the power is turned off.
+  
 
 ### Classification
 
