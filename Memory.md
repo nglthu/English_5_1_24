@@ -12,6 +12,10 @@ Materials for the Class of CSE803001-5-1-24(N03)
 Memory is an Electronic holding place for the instructions and data.
 It is used by the computer's operating system, hardware, and software.
 
+Design a RAM: including:
++ Resistor
++ Capacitor
+
 ### Classification
 
 <img src='img/memorytype.png'>
@@ -52,9 +56,9 @@ down to the level of quantum and more durable
 # Part II. Required Reading Materials: Memory
 
 
-Changing Trends in Computer Architecture: A Comprehensive Analysis of ARM and x86 Processors
-Gupta, K. and Sharma, T., 2021. Changing trends in computer architecture: A comprehensive analysis of arm and x86 processors. International Journal of Scientific Research in Computer Science, Engineering and Information Technology, 7.
+Volatile and Nonvolatile Memory Devices for Neuromorphic and Processing-in-memory Applications in JOURNAL OF SEMICONDUCTOR TECHNOLOGY
 
+Cho, Seongjae. "Volatile and nonvolatile memory devices for neuromorphic and processing-in-memory applications." J. Semicond. Technol. Sci 22, no. 1 (2022): 30-46.
 
 
 # Part III. Listening Materials: Memory
@@ -144,9 +148,9 @@ Using the writing techniques of POWER, Good Style (Zobel, Justin, 2005) and  "so
 |capacitor|  it is a device capable of storing electrical charge and releasing electrical charge when needed    |kəˈpasədər  |
 | transistor |     |  |
 |latency|     |  |
-| RAN|     |  |
+| RAM|     |  |
 | DRAM|    |  |
-| stochastic [stəˈkastik]|     |  |
+| resistor|    device having a designed resistance to the passage of an electric current.  |  |
 | ARM  |     |  |
 | x86 |    |  |
 | ultra-high frequency pipeline design |     |  |
