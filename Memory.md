@@ -36,101 +36,12 @@ Memory is used as a synonym for primary memory
 ||    Gone after power-off  | Remain |
 |Performance| Fast|Slow|
 
-## 2. ARM architecture vs x86 Architecture
-
-In brief: Their difference is different ISAs(Instruction Set Architectures), using different methods of handling the
-same problem. 
-The output will be the same but the way in which we handle a mathematical problem will be different. 
-
-This difference in the ISA affects how many instruction cycles will be performed for any given task affecting the power usage, performance, memory usage, heat generation, and more. 
-
-In technical terms: Change the way how [sets of] instructions have been  commanded and executed.
-
-<img src='img/pipelinebranchBehaviourx86.png'>
-
-
-+ A simple instruction set greatly simplifies the design of the pipeline.
-  
-+ A high clock rate with single-cycle execution.
-
-+ Poor code Density due to fixed-length instruction set
-
-+ Without caching, more main memory bandwidth being used for instruction fetching, resulting in a higher memory power consumption
-
-+ When the processor incorporates an on-chip cache of a particular size, poor code density results in a smaller
-pro-portion of the working set being held in the cache at any time, increasing the cache
-miss rate, resulting in an even greater increase in the main memory bandwidth requirement and consequent power consumption.
-
-In 1980 standard semiconductor memories (DRAMs - Dynamic Random Access Memories) could operate at around 3 MHz for random accesses and at 6 MHz for sequential (page mode) accesses. 
-
-The CISC microprocessors of the time could access memory at most at 2 MHz, so memory bandwidth was not being exploited
-to the full. 
-
-RISC processors, being rather simpler, could be designed to operate at clock rates that would use all the available memory bandwidth.
-
-+ RISC processors  won the performance battle and should cost less to design, 
-
-+ RISCs generally have poor code density compared with CISCs.
-
-+ RISCs don't execute x86 code.
-
-
-| ARM vs x86           | ARM | x86|
-| :---------------- | :------: | ----: |
-| |   <img src='img/ARM.png'>   | <img src='img/x86.png'>  |
-| Instruction set|    Using Architecture RISC (Reduced Instruction Set Computers)  | Using Architecture CISC (Complex Instruction Set Computing): process complex instructions simultaneously.   |
-|Performance| Simple Command for simple task: Fast execution of single instructions|Complex Commands for many complex/simple tasks: Can do many tasks at once|
-| |   System on Chip: increasing times of memory access. Need more RAM |Reduce times of memory access in chip x86. Optimisation of processing speed and RAM savings  |
-|Energy efficiency| Future Energy Efficiency|High Power Consumption  |
-
-x86: high raw processing power capabilities
-ARM: uses a fraction of the power.
-
-Summary of Comparision between x86 and ARM (Gupta, K. and Sharma, T., 2021)
- <img src='img/c1.png'>
- <img src='img/c2.png'>
- <img src='img/c3.png'>
- <img src='img/c4.png'>
-### System on Chip
-
- A system on a chip  is an integrated circuit that integrates most or all components of a computer or electronic system.
- 
- E.g. A system on a chip (SoC) is an integrated circuit that combines a CPU, memory, and other components into a single chip.
-
-A simple processor should require fewer transistors and less silicon area. 
-Therefore a whole CPU will fit on a chip at an earlier stage in process technology development, and once the technology has developed beyond the point where either CPU will fit on a chip.
-RISC CPU leaves more die area free for performance-enhancing features such as cache memory, memory management functions, floating-point hardware, and so on.
-
-###  The Look 
-Some of the  CPUs up to 2025.
-
-M4 Max features a 16-core CPU that’s up to 2.2x faster than the CPU in M1 Max, and up to 2.5x faster than the latest AI PC chip
-
-![M4 Max](https://nglthu.github.io/English_5_1_24/img/M4Max.png)
-
-Sourced: M4 Max by Apple (Apple.com, 2025)
-
-| Intel           |Back | Front|
-| :---------------- | :------: | ----: |
-| Intel Core 9| <img src='img/intelCore9_back.png'>     |  <img src='img/intelCore9_front.png'> |
-| Intel 14th gen| Support for the Intel® 700 series chipsets and backward compatibility with the Intel® 600 series chipsets allow you to access the features you need for any task.  | This architecture features performance cores, Efficient-cores and Intel® Thread Director2. With up to 24 cores (8 Performance-cores and 16 Efficient-cores) and up to 32 threads. The Intel® Core i9 processor P-cores are capable of reaching 6.0 GHz with Intel® Thermal Velocity Boost3 4 to elevate performance.|
-
-Source: Intel® Core™ Desktop Processors by Intel (Intel.com, 2025)
-
-## CPU History
-
-
-### The Best CPUs for 2025
-
-| The Best CPUs for 2025            | Mainstream, Budget, Fast-end| Game and High End Destop Flatform (HEDt)|
-| :---------------- | :------: | ----: |
-| In terms of Mainstream, Budget, Fast-end, High-end, Game| <img src='img/list1.png'>     |  <img src='img/list2.png'> |
-
-Sourced: The Best CPUs for 2025 (John Burek & Michael Justin Allen Sexton, 2025)
+## 2. 
 
 
 
-# Part II. Required Reading Materials: CPU
+
+# Part II. Required Reading Materials: Memory
 
 
 Changing Trends in Computer Architecture: A Comprehensive Analysis of ARM and x86 Processors
@@ -138,12 +49,12 @@ Gupta, K. and Sharma, T., 2021. Changing trends in computer architecture: A comp
 
 
 
-# Part III. Listening Materials: CPU
+# Part III. Listening Materials: Memory
 
 
-## CPU Brief Introduction
+## Memory Brief Introduction
 
-[![Watch the video: How a CPU can work](https://nglthu.github.io/English_5_1_24/img/howCPUcanwork.png)](https://www.youtube.com/watch?v=cNN_tTXABUA&t=544s)
+[![Watch the video: Brief Introduction](https://nglthu.github.io/English_5_1_24/img/howCPUcanwork.png)](https://www.youtube.com/watch?v=H_M--weEzpA&t=119s)
 
 [![Watch the video: How a CPU can work](https://nglthu.github.io/English_5_1_24/img/CPU.png)](https://www.youtube.com/watch?v=vqs_0W-MSB0)
 
@@ -221,8 +132,8 @@ Using the writing techniques of POWER, Good Style (Zobel, Justin, 2005) and  "so
 
 | Words            | Meaning | Category|
 | :---------------- | :------: | ----: |
-| CPU |     |  |
-| Core-level|     |  |
+| volatile |     |  |
+| nonvolatile|     |  |
 | Chip-level|     |  |
 | Real-time |     |  |
 | Logic gates|     |  |
