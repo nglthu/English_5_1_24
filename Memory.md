@@ -10,10 +10,10 @@ Materials for the Class of CSE803001-5-1-24(N03)
 ### Definition
 | Sequences           | In | Action|
 | :---------------- | :------: | ----: |
-| <img src='img/mem/1.png'> | <img src='img/mem/2.png'>     |  <img src='img/mem/3.png'> |
-| <img src='img/mem/4.png'> | <img src='img/mem/5.png'>     |  <img src='img/mem/6.png'> |
-| <img src='img/mem/7.png'> | <img src='img/mem/8.png'>     |  <img src='img/mem/9.png'> |
-| <img src='img/mem/10.png'> | <img src='img/mem/11.png'>     |  <img src='img/mem/12.png'> |
+|<img src='img/mem/1.png'>|<img src='img/mem/2.png'>|<img src='img/mem/3.png'>|
+|<img src='img/mem/4.png'>|<img src='img/mem/5.png'>|<img src='img/mem/6.png'>|
+|<img src='img/mem/7.png'>|<img src='img/mem/8.png'>|<img src='img/mem/9.png'>|
+|<img src='img/mem/10.png'>|<img src='img/mem/11.png'>|<img src='img/mem/12.png'>|
 | more... | 
 
 
