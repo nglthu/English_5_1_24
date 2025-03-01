@@ -15,17 +15,26 @@ It is used by the computer's operating system, hardware, and software.
 ### Classification
 
 1. Primary Memory
-   Located directly on microchips on the motherboard that physcially close to a computer's microprocessor.
+   Located directly on microchips on the motherboard that physically close to a computer's microprocessor.
+
+Memory is used as a synonym for primary memory 
 
    For example: RAM
 
-3. Secondary Memory (Second storage device)
+2. Secondary Memory (Second storage device)
+
+   For example: A hard drive or a hard disk drive (HDD)
    
    
 
+### Comparision
 
-
-
+|Items| Primary Memory           | Secondary Memory [Storage] | 
+| :---------------- | :------: | :------: | 
+|Data storage|     volatile| nonvolatile |
+||    Short time  | Long Time |
+||    Gone after power-off  | Remain |
+|Performance| Fast|Slow|
 
 ## 2. ARM architecture vs x86 Architecture
 
