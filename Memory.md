@@ -136,6 +136,7 @@ Cho, Seongjae. "Volatile and nonvolatile memory devices for neuromorphic and pro
 
 
 # Part III. Writing 
+
 ## Writing Technique of POWER
 
 This new strategic technique is called the Power strategy. 
@@ -179,7 +180,14 @@ This strategy contains the following steps:
 
 ## Short_paper
 
-<h1>Writing Materials: Memory</h1>
+### Improve your writing
+
+
+
+[![Improve Your Writing: Cambridge English](https://nglthu.github.io/English_5_1_24/img/camWrite.png)](https://www.cambridgeenglish.org/learning-english/free-resources/write-and-improve/)
+
+
+### <h1>Writing Materials: Memory</h1>
 
 "The semiconductor memories let aside the advancements in processor technologies now is being moved to the
 center of renovation toward the future computers in the ultimate architecture. In his review, the roles and requirements of semiconductor memories for memory-oriented processors are investigated in the highlights of applications in the neuromorphic system
